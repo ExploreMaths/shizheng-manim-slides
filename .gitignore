@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# manim 渲染缓存与中间产物
+media/videos/**/partial_movie_files/
+media/texts/
+media/images/
+
+# 渲染日志
+render_*.txt

@@ -321,8 +321,8 @@ class ShizhengSlides(Slide):
                      18, INK, FONT_SERIF)
         self.play(GrowFromEdge(band, LEFT), FadeIn(qm), Write(qt))
 
-        # why 一行（紧贴引语条下方）
-        why = mk_text(2.26, 15.6, 29.35, 0.85,
+        # why 一行（紧贴引语条下方，整体再往下移一点）
+        why = mk_text(2.26, 16.1, 29.35, 0.85,
                       "为什么选这条新闻？——它正对应教材的核心考点：创新驱动发展。接下来按\u201c报道 → 教材 → 点评\u201d展开。",
                       14, GRAY, FONT_SANS, slant=ITALIC)
         self.play(FadeIn(why, shift=UP * 0.2))
@@ -354,16 +354,17 @@ class ShizhengSlides(Slide):
             nm = mk_text(4.23, row_mid - 0.45, 6.7, 0.92, name, 18, INK, FONT_SANS, bold=True)
             n = mk_text(2.26, row_mid - 0.5, 1.55, 1.06, num, 22, RED, FONT_SERIF, bold=True)
             d = mk_text(11.64, row_mid - 0.4, 19.97, 0.85, desc, 15, BODY, FONT_SANS)
+            # 三项整体垂直居中于上下两条线之间（不偏上、不偏下）
+            row_mid_y = (PPT_H / 2 - row_mid) * SCALE
+            nm.move_to([nm.get_center()[0], row_mid_y, 0])
             n.move_to([n.get_center()[0], nm.get_center()[1], 0])
             d.move_to([d.get_center()[0], nm.get_center()[1], 0])
-            # 只画底部线（第一行顶部不画线）
-            ln_bot = mk_hline(2.26, top + row_h, 29.35, color=LINE_GRAY, stroke=1)
-            self.play(
-                GrowFromCenter(n),
-                Write(nm),
-                FadeIn(d, shift=RIGHT * 0.2),
-                Write(ln_bot),
-            )
+            # 每项被上下两条线夹住：第一行画上线，每行画下线（相邻行共用中线）
+            acts = [GrowFromCenter(n), Write(nm), FadeIn(d, shift=RIGHT * 0.2)]
+            if i == 0:
+                acts.append(Write(mk_hline(2.26, top, 29.35, color=LINE_GRAY, stroke=1)))
+            acts.append(Write(mk_hline(2.26, top + row_h, 29.35, color=LINE_GRAY, stroke=1)))
+            self.play(*acts)
 
         note = mk_text(2.26, 14.9, 29.35, 1.41,
                        "注：左列为《意见》部署的五个方面（据新华社报道）；右列为演讲者结合教材知识所作的要点解读，帮助理解记忆。",
@@ -461,17 +462,25 @@ class ShizhengSlides(Slide):
              "提升创新能力是企业持续发展之基、市场制胜之道；核心技术不是别人赐予的，必须自强奋斗。",
              14.25),
         ]
-        for num, lead, body, top in rows:
+        for i, (num, lead, body, top) in enumerate(rows):
+            row_h = 2.45
+            row_mid = top + row_h / 2
+            row_mid_y = (PPT_H / 2 - row_mid) * SCALE
             n = mk_text(2.26, top + 0.05, 1.55, 1.06, num, 22, RED, FONT_SERIF, bold=True)
             head = mk_text(4.23, top, 27.38, 0.8, lead, 15, INK, FONT_SANS, bold=True)
             bd = mk_text(4.23, top + 0.75, 27.38, 1.3, body, 15, BODY, FONT_SANS)
-            line = mk_hline(2.26, top + 2.45, 29.35, color=LINE_GRAY, stroke=1)
-            self.play(
-                GrowFromCenter(n),
-                Write(head),
-                FadeIn(bd, shift=RIGHT * 0.2),
-                Write(line),
-            )
+            # 内容(head+bd)整体垂直居中于上下两条线之间
+            comb_mid = (head.get_top()[1] + bd.get_bottom()[1]) / 2
+            shift_y = row_mid_y - comb_mid
+            head.move_to([head.get_center()[0], head.get_center()[1] + shift_y, 0])
+            bd.move_to([bd.get_center()[0], bd.get_center()[1] + shift_y, 0])
+            n.move_to([n.get_center()[0], head.get_center()[1], 0])
+            # 每项被上下两条线夹住：第一行画上线，每行画下线
+            acts = [GrowFromCenter(n), Write(head), FadeIn(bd, shift=RIGHT * 0.2)]
+            if i == 0:
+                acts.append(Write(mk_hline(2.26, top, 29.35, color=LINE_GRAY, stroke=1)))
+            acts.append(Write(mk_hline(2.26, top + row_h, 29.35, color=LINE_GRAY, stroke=1)))
+            self.play(*acts)
 
         note = mk_text(2.26, 16.90, 29.35, 0.71,
                        "以上表述综合自人教版《道德与法治》九年级上册第二课《创新驱动发展》。",
@@ -501,6 +510,10 @@ class ShizhengSlides(Slide):
         hdr_bg2 = mk_rect(2.26 + col1_w, hdr_top, 29.35 - col1_w, row_h, TABLE_HEAD)
         hdr_t1 = mk_text(2.26 + 0.3, hdr_top + 0.5, col1_w - 0.6, row_h, "新闻中的事实", 17, WHITE, FONT_SANS, bold=True)
         hdr_t2 = mk_text(2.26 + col1_w + 0.3, hdr_top + 0.5, 29.35 - col1_w - 0.6, row_h, "教材中的观点（九年级上册）", 17, WHITE, FONT_SANS, bold=True)
+        # 表头文字垂直居中于表头格内
+        hdr_mid_y = (PPT_H / 2 - (hdr_top + row_h / 2)) * SCALE
+        hdr_t1.move_to([hdr_t1.get_center()[0], hdr_mid_y, 0])
+        hdr_t2.move_to([hdr_t2.get_center()[0], hdr_mid_y, 0])
         self.play(
             LaggedStart(
                 Write(hdr_bg1), Write(hdr_bg2),
@@ -525,6 +538,10 @@ class ShizhengSlides(Slide):
             bg2 = mk_rect(2.26 + col1_w, top, 29.35 - col1_w, row_h, WHITE, opacity=0.5, stroke_width=1, stroke_color=LINE_GRAY)
             t1 = mk_text(2.26 + 0.3, top + 0.4, col1_w - 0.6, row_h, fact, 15, BODY, FONT_SANS)
             t2 = mk_text(2.26 + col1_w + 0.3, top + 0.4, 29.35 - col1_w - 0.6, row_h, view, 15, BODY, FONT_SANS)
+            # 文字垂直居中于格内（上下边框线之间）
+            cell_mid_y = (PPT_H / 2 - (top + row_h / 2)) * SCALE
+            t1.move_to([t1.get_center()[0], cell_mid_y, 0])
+            t2.move_to([t2.get_center()[0], cell_mid_y, 0])
             self.play(
                 Write(bg1), Write(bg2),
                 Write(t1), Write(t2),
@@ -563,19 +580,27 @@ class ShizhengSlides(Slide):
              "教材链接：坚持国家利益至上，维护国家安全，人人有责。",
              13.00),
         ]
-        for num, head, body, link, top in rows:
+        for i, (num, head, body, link, top) in enumerate(rows):
+            row_h = 3.50
+            row_mid = top + row_h / 2
+            row_mid_y = (PPT_H / 2 - row_mid) * SCALE
             n = mk_text(2.26, top, 1.83, 1.27, num, 26, RED, FONT_SERIF, bold=True)
             hd = mk_text(4.45, top, 27.16, 0.8, head, 15, INK, FONT_SANS, bold=True)
             bd = mk_text(4.45, top + 0.75, 27.16, 1.5, body, 15, BODY, FONT_SANS)
             lk = mk_text(4.45, top + 2.20, 27.16, 0.7, link, 13, RED, FONT_SANS, slant=ITALIC)
-            ln = mk_hline(2.26, top + 3.50, 29.35, color=LINE_GRAY, stroke=1)
-            self.play(
-                GrowFromCenter(n),
-                Write(hd),
-                FadeIn(bd, shift=RIGHT * 0.2),
-                FadeIn(lk),
-                Write(ln),
-            )
+            # 内容(hd+bd+lk)整体垂直居中于上下两条线之间
+            comb_mid = (hd.get_top()[1] + lk.get_bottom()[1]) / 2
+            shift_y = row_mid_y - comb_mid
+            hd.move_to([hd.get_center()[0], hd.get_center()[1] + shift_y, 0])
+            bd.move_to([bd.get_center()[0], bd.get_center()[1] + shift_y, 0])
+            lk.move_to([lk.get_center()[0], lk.get_center()[1] + shift_y, 0])
+            n.move_to([n.get_center()[0], hd.get_center()[1], 0])
+            # 每项被上下两条线夹住：第一行画上线，每行画下线
+            acts = [GrowFromCenter(n), Write(hd), FadeIn(bd, shift=RIGHT * 0.2), FadeIn(lk)]
+            if i == 0:
+                acts.append(Write(mk_hline(2.26, top, 29.35, color=LINE_GRAY, stroke=1)))
+            acts.append(Write(mk_hline(2.26, top + row_h, 29.35, color=LINE_GRAY, stroke=1)))
+            self.play(*acts)
 
         # 底部米色条
         strip = mk_rect(0, 16.93, 33.87, 2.12, BAND)
