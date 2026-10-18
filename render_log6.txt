@@ -1,0 +1,968 @@
+﻿Manim Community v0.22.0
+
+[10/17/26 14:26:47] INFO     Animation 0 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             993878df8b2d8c483bbc2a69cd23                      
+                             a0ff8ca2034a281d3c54ec08b9e5                      
+                             7a92d318)                                         
+python.exe : 
+所在位置 行:2 字符: 1
++ & "C:\Users\kylez\AppData\Local\Programs\Python\Python314\python.exe" ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Animation 0: Write(Text('时政演讲 · 道德与法治')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 1 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             10cd0772b90c6105f03f5cf43416                      
+                             350cce1fcfceab6cdcd7aab279e6                      
+                             f5ff0b42)                                         
+                                                                                              
+
+Animation 1: Write(Text('向“新”而行，')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:26:48] INFO     Animation 2 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             5fd70faf6233439dbf94f84a7958                      
+                             cff3cae974dda473087301375414                      
+                             5045cf38)                                         
+                                                                               
+
+Animation 2: Write(Text('以“创”致远')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 3 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             322e19f90df137c212328ce2e5c6                      
+                             b41cadfa5459b699752b63914179                      
+                             570bca38)                                         
+                                                                             
+
+Animation 3: FadeIn(Text('——从《关于发展新质生产力的意见》看“创新驱动发展”')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 4 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             e4cf50f2be52acc9702030245f98                      
+                             f50f82172cd98ae7c63fd82088f4                      
+                             c0cb2198)                                         
+                                                                                                                    
+
+Animation 4: LaggedStart(Group):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 5 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             d7db158cdf2ca4cffc42aa5cc3b8                      
+                             7b78ded12e5fb6002626306cdc86                      
+                             65f617ef)                                         
+                                                                      
+
+Animation 5: FadeOut(Group):   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 5: FadeOut(Group): 100%|##########| 1/1 [00:00<00:00,  8.65it/s]
+[10/17/26 14:26:49] INFO     Animation 6 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             07bf81d67ac3e6cae99ca3eb9162                      
+                             5e7b1a75b7c4f56358b409805b91                      
+                             e731bbdc)                                         
+                                                                          
+
+Animation 6: Write(Text('报道 · 01  时政速览')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 7 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             a0fe3d737fe777f861c9e846d19d                      
+                             cdbc303e5439bdb8aab3c05bb701                      
+                             bbd4d556)                                         
+                                                                                      
+
+Animation 7: Write(Text('中共中央、国务院发布《关于发展新质生产力的意见》')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 8 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             9ba675168ddb7abbe17fbb4ca5eb                      
+                             29c5f10a78dd9da80a60add1fc42                      
+                             88a62fd7)                                         
+                                                                                                                   
+
+Animation 8: Create(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 9 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             b890bb191044065383bdd4c3441a                      
+                             36863b0378a72c6478458a751012                      
+                             25300977)                                         
+                                                                      
+
+Animation 9: FadeIn(Text('时\u3000间')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:26:50] INFO     Animation 10 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             a26037db6e57962fea346580a516                      
+                             201f291324c22780818bbf9a4a35                      
+                             7d3ee71f)                                         
+                                                                                    
+
+Animation 10: FadeIn(Text('发布主体')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 11 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             9aa9d663b7522cd44cd7542a0bc2                      
+                             d3d9e9ac75426fe5635e26145a8e                      
+                             90d53cb6)                                         
+                                                                                   
+
+Animation 11: FadeIn(Text('文件名称')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                                                                                   
+
+Animation 12: Create(Circle):   0%|          | 0/8 [00:00<?, ?it/s]
+[10/17/26 14:26:51] INFO     Animation 12 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\2bc4d9eb370edc713                         
+                             221a53de7fdc1d05c79c4f130                         
+                             d6dbb12c3ac1ba4f4dba99.mp                         
+                             4'                                                
+                                                                   
+
+Animation 13: Transform(Circle):   0%|          | 0/11 [00:00<?, ?it/s]
+                    INFO     Animation 13 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\80f8f42ea2cd920b2                         
+                             f1fdf20bf0ac0a1515d6c7c9e                         
+                             3a62d3017c1fe4700bd26c.mp                         
+                             4'                                                
+                                                                       
+
+Animation 14: Write(Text('个')), etc.:   0%|          | 0/8 [00:00<?, ?it/s]
+[10/17/26 14:26:52] INFO     Animation 14 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\d08041f5950b5cc4d                         
+                             0e8c95a3bd8b5e81d107c28cd                         
+                             0c8525b609c9716a4e003b.mp                         
+                             4'                                                
+                                                                            
+
+Animation 15: Create(Circle):   0%|          | 0/8 [00:00<?, ?it/s]
+                    INFO     Animation 15 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\0175ed0baf7712af9                         
+                             6787fa7ccd5dd26a2a9a85a33                         
+                             f7990cd35005323b1dd43d.mp                         
+                             4'                                                
+                                                                   
+
+Animation 16: Transform(Circle):   0%|          | 0/11 [00:00<?, ?it/s]
+                    INFO     Animation 16 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\968acbc75bc927fe7                         
+                             846d6ebb49e16b36be1ca9610                         
+                             54fdbb9b69282215fee94c.mp                         
+                             4'                                                
+                                                                       
+
+Animation 17: Write(Text('项')), etc.:   0%|          | 0/8 [00:00<?, ?it/s]
+                    INFO     Animation 17 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\3e890416e661a6847                         
+                             88eaf2b0d812e5f00770bc666                         
+                             954fcf6220fa0514d3f27e.mp                         
+                             4'                                                
+                                                                            
+
+Animation 18: GrowFromEdge(Rectangle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 18: GrowFromEdge(Rectangle), etc.:  93%|#########3| 14/15 [00:00<00:00, 133.09it/s]
+[10/17/26 14:26:53] INFO     Animation 18 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\2abcac1d611da533e                         
+                             850cf17ebddf224885e13e3e0                         
+                             0bc3944009310e0deb8bac.mp                         
+                             4'                                                
+                                                                                             
+
+Animation 19: FadeIn(Text('为什么选这条新闻？——它正对应教材的核心考点：创新驱动发展。接下来按“报道 → 教材 → 点评”展开。')):   0%|          | 0/9 [00:00<?, ?it/s
+]
+[10/17/26 14:26:54] INFO     Animation 19 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\64ccffeee21f0cec4                         
+                             42b09488e91c31ca051732bd6                         
+                             37cde8e6a68b6f52145481.mp                         
+                             4'                                                
+                                                                                                                       
+                                          
+
+Animation 20: FadeOut(Group):   0%|          | 0/9 [00:00<?, ?it/s]
+Animation 20: FadeOut(Group):  56%|#####5    | 5/9 [00:00<00:00, 42.28it/s]
+[10/17/26 14:26:55] INFO     Animation 20 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\6908a7e869d5bff6b                         
+                             212111c8821aab2fb00840704                         
+                             86ac7c55d60138109852ac.mp                         
+                             4'                                                
+                    INFO     Animation 21 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             b0c7b8161e4b7bede74b7e70b39d                      
+                             c5737f5b600c2a80f907f7a7c4d1                      
+                             9761dc86)                                         
+                                                                           
+
+Animation 21: Write(Text('报道 · 01  要点梳理')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 22 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             91990eb09e2d5bf889fc22340e1c                      
+                             55db905631d63ecc48e3a001f4a3                      
+                             f084d0f7)                                         
+                                                                                       
+
+Animation 22: Write(Text('《意见》部署五方面创新，科技创新居首')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 23 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             9d44f23a2aa48fc558ee7321133d                      
+                             fe4a5c2617ac6cc86b573dbe4008                      
+                             ebc155b4)                                         
+                                                                                                        
+
+Animation 23: Create(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                                                                       
+
+Animation 24: Transform(Dot), etc.:   0%|          | 0/9 [00:00<?, ?it/s]
+                    INFO     Animation 24 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\b36e129dbc55b8cc7                         
+                             5e1265eb62a4693dfe40ba909                         
+                             c54aa3039660dcfdfb274e.mp                         
+                             4'                                                
+                                                                         
+
+Animation 25: Transform(Dot), etc.:   0%|          | 0/9 [00:00<?, ?it/s]
+[10/17/26 14:26:56] INFO     Animation 25 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\5d6c89fbef6810f60                         
+                             34bca74fcf67d702b0066122a                         
+                             c22f7ce11f1a71f880d235.mp                         
+                             4'                                                
+                                                                         
+
+Animation 26: Transform(Dot), etc.:   0%|          | 0/9 [00:00<?, ?it/s]
+                    INFO     Animation 26 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\e4f8c78d1ed1293b9                         
+                             7d3d05fb91354c8c85ce8eac9                         
+                             1765205566e5227202d2d4.mp                         
+                             4'                                                
+                                                                         
+
+Animation 27: Transform(Dot), etc.:   0%|          | 0/9 [00:00<?, ?it/s]
+                    INFO     Animation 27 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\7aaec481bfffedea3                         
+                             dcb9e49ac52ac16db22ac68ee                         
+                             dbe5f700c97bb2e325efc5.mp                         
+                             4'                                                
+                                                                         
+
+Animation 28: Transform(Dot), etc.:   0%|          | 0/9 [00:00<?, ?it/s]
+[10/17/26 14:26:57] INFO     Animation 28 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\48bcedd4af4f4c121                         
+                             2113856ed4f8343e18197e89a                         
+                             2639d52a33be40f85d96aa.mp                         
+                             4'                                                
+                                                                         
+
+Animation 29: FadeIn(Text('注：左列为《意见》部署的五个方面（据新华社报道）；右列为演讲者结合教材知识所作的要点解读，帮助理解记忆。')):   0%|          | 0/8 [00:00<?, ?it/
+s]
+                    INFO     Animation 29 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\802776f206bfe1a1a                         
+                             565d1919c441014c6b9f8e1a2                         
+                             90301d6ea023ef0ed7b3a0.mp                         
+                             4'                                                
+                                                                                                                       
+                                                      
+
+Animation 30: Write(Text('记忆钩子：“科技打头、产业落地、方式转型、机制护航、人才支撑”。')):   0%|          | 0/12 [00:00<?, ?it/s]
+[10/17/26 14:26:58] INFO     Animation 30 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\7bf49bec71fdbbb78                         
+                             72029b559690ff272d451015a                         
+                             c5ad1c6c95d81fbc6a5c1e.mp                         
+                             4'                                                
+                                                                                                                       
+            
+
+Animation 31: Indicate(Text('记忆钩子：“科技打头、产业落地、方式转型、机制护航、人才支撑”。')):   0%|          | 0/8 [00:00<?, ?it/s]
+                    INFO     Animation 31 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\e70ceeb8bbebe1459                         
+                             b179526f7c24c6c8698fd0791                         
+                             2ef86978e29d56f9ae78f8.mp                         
+                             4'                                                
+                                                                                                                       
+              
+
+Animation 32: FadeOut(Group):   0%|          | 0/9 [00:00<?, ?it/s]
+Animation 32: FadeOut(Group):  44%|####4     | 4/9 [00:00<00:00, 39.21it/s]
+Animation 32: FadeOut(Group): 100%|##########| 9/9 [00:00<00:00, 40.25it/s]
+[10/17/26 14:26:59] INFO     Animation 32 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\cc6557dd9e49825cb                         
+                             21be0af66157b22c236a2b2d7                         
+                             abd7db4c4dc61bd637761e.mp                         
+                             4'                                                
+[10/17/26 14:27:00] INFO     Animation 33 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             f95fd3e1f08ac5986b7d799074ce                      
+                             20b1dc678e65f43d158e762f7b41                      
+                             3e72ee99)                                         
+                                                                           
+
+Animation 33: Write(Text('报道 · 02  关联新闻')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 34 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             8611b9a97455c159093d27b2bf89                      
+                             fd06f7588d91f439288f5218584d                      
+                             2d2d1c4f)                                         
+                                                                                       
+
+Animation 34: Write(Text('一周内，40 项关键技术出口管制公开征求意见')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 35 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             7ff89dd1b36da0e5837376895248                      
+                             c02b4dcf6d270e6a11338f0f7957                      
+                             553dae59)                                         
+                                                                                                             
+
+Animation 35: Create(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 36 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             86e1cfedc6ce417b7114c7981855                      
+                             e17ed532ef755c611bd23a06f167                      
+                             7c65cc35)                                         
+                                                                       
+
+Animation 36: Write(Text('新闻事实')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:01] INFO     Animation 37 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             6456cdb179a4e9e6dda1023bb807                      
+                             0bf0ee51a52b00802b41090bd8bd                      
+                             524b4afe)                                         
+                                                                                  
+
+Animation 37: Write(Text('拟增列人工智能、生物医药、光伏三个领域\n共 40 项关键技术。')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 38 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             2b7db787cb8d0b9b7be7ca61decf                      
+                             e944c840d149c3bc22785ff2d081                      
+                             5662145b)                                         
+                                                                                                                       
+       
+
+Animation 38: Write(Text('其中拟禁止出口 14 项，拟限制出口 26 项。')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 39 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             c46a2f864e8bb857152adc03febb                      
+                             667a33f74885599f5ba7d3138151                      
+                             c5ceb2b9)                                         
+                                                                                                            
+
+Animation 39: Write(Text('商务部发言人：这是技术贸易管理的常态化工作，\n依法依规，不针对任何特定国家、地区或实体。')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:02] INFO     Animation 40 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             acfaeaca5b80b346cec0ebd42518                      
+                             8b861c7a06c53d9c7f1811b07ca6                      
+                             6f987bc0)                                         
+                                                                                                                       
+                                           
+
+Animation 40: Write(Text('这条新闻释放什么信号？')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 41 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             71b32886ef635ae78d8e441adaf1                      
+                             536ff799fb21a28f3df2f9f70fa1                      
+                             d8e56577)                                         
+                                                                                          
+
+Animation 41: FadeIn(Text('· 科技实力已成为国际竞争的核心，\n各主要经济体都在加强关键技术管控。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:03] INFO     Animation 42 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             72920df1d84ef0c511f2011efdad                      
+                             3d21311b780d6f9364a30db40a77                      
+                             b9b23f73)                                         
+                                                                                                                       
+                  
+
+Animation 42: FadeIn(Text('· 关键技术关系国家安全与发展利益，\n必须掌握在自己手里。')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 43 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             427b1c8474ab4b78162a6eb9da7b                      
+                             6d83a54f743037919a7b1609ae56                      
+                             d61674ce)                                         
+                                                                                                                       
+      
+
+Animation 43: FadeIn(Text('· 管制不等于封闭：我国仍坚持扩大开放，\n推动国际科技合作。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:04] INFO     Animation 44 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             9a472044a28952e9664015c8ce92                      
+                             510aac77134185da904e51a52a44                      
+                             8e1c2816)                                         
+                                                                                                                       
+        
+
+Animation 44: GrowFromEdge(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 45 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             fd66a4e86065d04d8024296890d9                      
+                             487b96ed4ecc0f8a0b196ffb1d92                      
+                             1b224a4c)                                         
+                                                                                  
+
+Animation 45: FadeOut(Group):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:05] INFO     Animation 46 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             732999cdcc57e8f7df5d390b9b0a                      
+                             219fad755cb4edbee2bb56b56e5c                      
+                             9c84a0e4)                                         
+                                                                   
+
+Animation 46: Write(Text('教材 · 知识回顾')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 47 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             566f01a2c53f7d5aa0b32f0d6947                      
+                             637327cf89ca6634212f55e22dc5                      
+                             5395c072)                                         
+                                                                                   
+
+Animation 47: Write(Text('九上第二课《创新驱动发展》的四个核心观点')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 48 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             049a79254b5841750419e98265ab                      
+                             f3ca142a0a8d07b1e62f8fe09d96                      
+                             18619c6b)                                         
+                                                                                                            
+
+Animation 48: Create(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:06] INFO     Animation 49 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             4f9819d474fe8879078ab474f665                      
+                             9f88b55945bc230c59e3ea76e754                      
+                             d796e88d)                                         
+                                                                       
+
+Animation 49: FadeIn(Text('人教版《道德与法治》九年级上册 · 第一单元“富强与创新”')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 50 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             144f5798745044e84d235df152db                      
+                             7ecf1281c016cae55b185e41a4e9                      
+                             9213b34a)                                         
+                                                                                                                       
+   
+
+Animation 50: GrowFromCenter(Text('01')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 51 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             8b3bcf13f43f66feac536563cdf0                      
+                             e5b8d79b12f4e500c79572bfaa87                      
+                             6cb9ff1f)                                         
+                                                                                     
+
+Animation 51: GrowFromCenter(Text('02')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:07] INFO     Animation 52 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             42e125b45699f97d88ef875d9ce3                      
+                             774e6aa258c96565e7949b08f569                      
+                             3b46005f)                                         
+                                                                                     
+
+Animation 52: GrowFromCenter(Text('03')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:08] INFO     Animation 53 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             6773ee6d0c9e56ade533b8cb8cb6                      
+                             ec73855de62809c60416ae95653e                      
+                             1fad2f85)                                         
+                                                                                     
+
+Animation 53: GrowFromCenter(Text('04')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 54 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             8726076d2b8993e62ef0d1a7209f                      
+                             ebda8bb15895ec29543b8b330e65                      
+                             8bec0f3a)                                         
+                                                                                     
+
+Animation 54: FadeIn(Text('以上表述综合自人教版《道德与法治》九年级上册第二课《创新驱动发展》。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:09] INFO     Animation 55 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             ad80e252420d3d4d1fed9e0a6b5b                      
+                             2f731373e03ab8cea833824bdc31                      
+                             a5d13996)                                         
+                                                                                                                       
+                  
+
+Animation 55: _MethodAnimation(Group):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:11] INFO     Animation 56 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             063cdab4fd003c956845d2cb57f5                      
+                             b8569421a7325c864b994182b5d2                      
+                             58922df2)                                         
+                                                                            
+
+Animation 56: Write(Text('教材 · 考点对照')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 57 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             15e2e8665dd96729fb7aeed19497                      
+                             079095aa04e3123c2b2f92dc4e90                      
+                             0cde4454)                                         
+                                                                                   
+
+Animation 57: Write(Text('一条新闻里的四个考点：新闻事实 ↔ 教材观点')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:12] INFO     Animation 58 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             50f97dd21f416c2089d83e957a14                      
+                             7bca3ee6b5604d1f5ce3701f5ba7                      
+                             7af4001c)                                         
+                                                                                                             
+
+Animation 58: Create(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:13] INFO     Animation 59 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             7cb8bda787bd66be259f8e1211e9                      
+                             bd41a53c2510bf492dbfd6620735                      
+                             9521abc6)                                         
+                                                                       
+
+Animation 59: LaggedStart(Group):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:14] INFO     Animation 60 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             c5897770387802e0d4e37c5af86d                      
+                             768e6c54cf8ee75b981637b5bfad                      
+                             1c4be1e2)                                         
+                                                                       
+
+Animation 60: Create(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:15] INFO     Animation 61 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             002d2e4136fafeb3e11d16b71583                      
+                             9ae3646a986f5ac82e57cf1b1406                      
+                             7e073575)                                         
+                                                                            
+
+Animation 61: Create(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:16] INFO     Animation 62 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             f43facc92f43f7372d061202575e                      
+                             f2be9841e6d38b92f039f8238cd7                      
+                             8ada0d8a)                                         
+                                                                            
+
+Animation 62: Create(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:18] INFO     Animation 63 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             89942fd7a252a89ca972caea154e                      
+                             098250acfff543f6fc87aafe9c6e                      
+                             fc7f1b91)                                         
+                                                                            
+
+Animation 63: Create(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:19] INFO     Animation 64 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             b9a2918d450f8df1562a6461afc2                      
+                             ca8b8c13e45b68b1b8b6a85f3aad                      
+                             ca4d4fa6)                                         
+                                                                            
+
+Animation 64: FadeIn(Text('用法提示：先找新闻里的“事实”，再对教材里的“观点”——一分事实配一分观点，踩点得分。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:20] INFO     Animation 65 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             9875b04f04a94e9440718332b420                      
+                             0a64081276e204d330cd70545409                      
+                             4f9c3d56)                                         
+                                                                                                                       
+                              
+
+Animation 65: FadeOut(Group):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:24] INFO     Animation 66 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             0fee26b12cf2d9ffd9df181345fe                      
+                             500d068c7d4ff2ca27b8a16bd12e                      
+                             61a34563)                                         
+                                                                   
+
+Animation 66: Write(Text('点评 · 怎么看')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 67 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             2a73e1c3770e426ec5a668596614                      
+                             39767bdb2c9de0f97aa7b1717135                      
+                             012338a3)                                         
+                                                                                 
+
+Animation 67: Write(Text('三重逻辑读懂这份《意见》：发展、竞争与安全')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 68 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             463cb1979822ef6b6a6fb62a17a5                      
+                             63d77395c345f1c6a6e92eacbacf                      
+                             abf3bab5)                                         
+                                                                                                              
+
+Animation 68: Create(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                                                                       
+
+Animation 69: Create(Circle):   0%|          | 0/5 [00:00<?, ?it/s]
+                    INFO     Animation 69 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\fcbd5a9618c4a26cb                         
+                             f50addbdd3b18905e3793ab90                         
+                             ed0d95bf3b65ec7a25715e.mp                         
+                             4'                                                
+                                                                   
+
+Animation 70: Transform(Circle), etc.:   0%|          | 0/11 [00:00<?, ?it/s]
+Animation 70: Transform(Circle), etc.: 100%|##########| 11/11 [00:00<00:00, 101.15it/s]
+[10/17/26 14:27:25] INFO     Animation 70 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\e29e13e3da980e6be                         
+                             68aaec30b91c81c00a923c52b                         
+                             09f63b7535c09bdae77114.mp                         
+                             4'                                                
+                                                                                       
+
+Animation 71: Create(Circle):   0%|          | 0/5 [00:00<?, ?it/s]
+                    INFO     Animation 71 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\897670f2c3197c905                         
+                             57fdeffccb1ee60ab1a892db9                         
+                             0ab0d252b2665a4046f3a2.mp                         
+                             4'                                                
+                                                                   
+
+Animation 72: Transform(Circle), etc.:   0%|          | 0/11 [00:00<?, ?it/s]
+Animation 72: Transform(Circle), etc.: 100%|##########| 11/11 [00:00<00:00, 101.93it/s]
+[10/17/26 14:27:26] INFO     Animation 72 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\4cac2d014f0ae945a                         
+                             42076bda80ed8e25193263d19                         
+                             0d6516227ea61d5af12b1b.mp                         
+                             4'                                                
+                                                                                       
+
+Animation 73: Create(Circle):   0%|          | 0/5 [00:00<?, ?it/s]
+                    INFO     Animation 73 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\24b0b186d7e80c7e3                         
+                             d04f99c00abf00e2c8e6add89                         
+                             f0955b6cc8b2eabeb4df5e.mp                         
+                             4'                                                
+                                                                   
+
+Animation 74: Transform(Circle), etc.:   0%|          | 0/11 [00:00<?, ?it/s]
+Animation 74: Transform(Circle), etc.: 100%|##########| 11/11 [00:00<00:00, 102.93it/s]
+[10/17/26 14:27:27] INFO     Animation 74 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\aa4cdcd8c5a9482b4                         
+                             374bc5b54c4226e7f43aab8fc                         
+                             2325aecd37ee57a87e46a6.mp                         
+                             4'                                                
+                                                                                       
+
+Animation 75: GrowFromEdge(Rectangle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 75 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\32265b447705c3424                         
+                             63538810704b5046330af5d67                         
+                             4f69aa681e9349f4c5e5c5.mp                         
+                             4'                                                
+                                                                                   
+
+Animation 76: LaggedStart(Group):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 76: LaggedStart(Group):  33%|###3      | 4/12 [00:00<00:00, 33.13it/s]
+Animation 76: LaggedStart(Group):  67%|######6   | 8/12 [00:00<00:00, 30.89it/s]
+Animation 76: LaggedStart(Group): 100%|##########| 12/12 [00:00<00:00, 31.43it/s]
+[10/17/26 14:27:29] INFO     Animation 76 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\482f7e5b943b13ba3                         
+                             8821ef10b03d53d493bef6601                         
+                             5d25fa31d7c117c2afee76.mp                         
+                             4'                                                
+[10/17/26 14:27:30] INFO     Animation 77 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             1b72a4bb1e7f38ee7ca2d780c993                      
+                             8e26122aafecde86887469793a48                      
+                             e28a0424)                                         
+                                                                                 
+
+Animation 77: Write(Text('点评 · 我们怎么做')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 78 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             757e4b5298f68033e8e1c9d05827                      
+                             8fd5208d9f235137731417245a29                      
+                             50fd0078)                                         
+                                                                                     
+
+Animation 78: Write(Text('强国建设，少年何为？四个行动现在做起')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 79 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             2f2d6950dec64d0febd9058fedcd                      
+                             c9222b18d46342454c5bf136a1cb                      
+                             c21c681f)                                         
+                                                                                                        
+
+Animation 79: Create(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 80 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             27fc60ef9a4a04cc674e29c7bc18                      
+                             edaaae02ae70582c190197e88024                      
+                             d78ac53b)                                         
+                                                                       
+
+Animation 80: GrowFromCenter(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 81 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             1452c843975bcc572176f8197d21                      
+                             3f037cd0186226945c78b4f91b81                      
+                             b75665a1)                                         
+                                                                                    
+
+Animation 81: GrowFromCenter(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 82 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             811f99957e075de7e8ff5b33734b                      
+                             3ca1ffc46c85a25c92db1c834027                      
+                             9882b88e)                                         
+                                                                                    
+
+Animation 82: GrowFromCenter(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:31] INFO     Animation 83 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             01b0eaadc191538ca380a06b7247                      
+                             c5368cae803048021e8d13cd00db                      
+                             53c7b550)                                         
+                                                                                    
+
+Animation 83: GrowFromCenter(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 84 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             d3c5f621a424cd72079614ce6f5d                      
+                             eb66c9b00aba0b5a0555e26b9754                      
+                             736bb53e)                                         
+                                                                                    
+
+Animation 84: Create(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 85 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             2ff8384646f70a5603165c3e2d35                      
+                             8b46558ba373448c81fd0fea6305                      
+                             1070a3ef)                                         
+                                                                       
+
+Animation 85: FadeIn(Text('我的演讲到此结束，\n谢谢大家！')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 14:27:32] INFO     Animation 86 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             90dbda79148ca9bd39deae9ee7e4                      
+                             0207834873773a4581baebd65402                      
+                             cc4b0359)                                         
+                                                                                                   
+
+Animation 86: Circumscribe(Group):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Combining to Movie file.  scene_file_writer.py:877
+                    INFO                               scene_file_writer.py:999
+                             File ready at                                     
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\Sh                         
+                             izhengSlides.mp4'                                 
+                                                                               
+                    INFO     The segment cache exceeded 100       caching.py:61
+                             files; removed 26 least recently                  
+                             used segment(s). Change                           
+                             max_files_cached to adjust this                   
+                             limit.                                            
+                    INFO     Rendered ShizhengSlides             manager.py:226
+                             Played 87 animations                              
+                                                                        
+
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:   0%|          | 0/8 [00:
+00<?, ? slides/s]
+
+Reversing large file by cutting it in segments:   0%|          | 0/3 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  33%|###3      | 1/3 [00:00<00:00,  3.24 files/s][A
+
+Reversing large file by cutting it in segments:  67%|######6   | 2/3 [00:00<00:00,  4.39 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  25%|##5       | 2/8 [00:
+01<00:03,  1.71 slides/s]
+
+Reversing large file by cutting it in segments:   0%|          | 0/2 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  50%|#####     | 1/2 [00:00<00:00,  2.79 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  38%|###7      | 3/8 [00:
+02<00:03,  1.27 slides/s]
+
+Reversing large file by cutting it in segments:   0%|          | 0/2 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  50%|#####     | 1/2 [00:00<00:00,  2.34 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  50%|#####     | 4/8 [00:
+03<00:03,  1.09 slides/s]
+
+Reversing large file by cutting it in segments:   0%|          | 0/2 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  50%|#####     | 1/2 [00:00<00:00,  2.34 files/s][A
+
+Reversing large file by cutting it in segments: 100%|##########| 2/2 [00:00<00:00,  3.99 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  88%|########7 | 7/8 [00:
+04<00:00,  1.63 slides/s]
+
+Reversing large file by cutting it in segments:   0%|          | 0/2 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  50%|#####     | 1/2 [00:00<00:00,  2.93 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations: 100%|##########| 8/8 [00:
+05<00:00,  1.41 slides/s]
+[10/17/26 14:27:38] INFO     Generated 8 slides to                  base.py:680
+                             'C:\Users\kylez\Doubao\chats\2026-10-1            
+                             7\new-chat\shizheng_manim\slides\files            
+                             \ShizhengSlides'                                  
+[10/17/26 14:27:38] INFO     Generated 8 slides to                  base.py:680
+                             'C:\Users\kylez\Doubao\chats\2026-10-1            
+                             7\new-chat\shizheng_manim\slides\files            
+                             \ShizhengSlides'                                  
+                    INFO     Slide 'ShizhengSlides' configuration   base.py:692
+                             written in                                        
+                             'C:\Users\kylez\Doubao\chats\2026-10-1            
+                             7\new-chat\shizheng_manim\slides\Shizh            
+                             engSlides.json'                                   
+                    INFO     Slide 'ShizhengSlides' configuration   base.py:692
+                             written in                                        
+                             'C:\Users\kylez\Doubao\chats\2026-10-1            
+                             7\new-chat\shizheng_manim\slides\Shizh            
+                             engSlides.json'                                   
+                                                                                                                       
+                         

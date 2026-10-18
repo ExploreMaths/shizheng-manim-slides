@@ -1,0 +1,162 @@
+﻿Manim Community v0.22.0
+
+[10/17/26 14:07:17] INFO     Animation 0 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             993878df8b2d8c483bbc2a69cd23                      
+                             a0ff8ca2034a281d3c54ec08b9e5                      
+                             7a92d318)                                         
+python.exe : 
+所在位置 行:2 字符: 1
++ & "C:\Users\kylez\AppData\Local\Programs\Python\Python314\python.exe" ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Animation 0: Write(Text('时政演讲 · 道德与法治')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 1 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             10cd0772b90c6105f03f5cf43416                      
+                             350cce1fcfceab6cdcd7aab279e6                      
+                             f5ff0b42)                                         
+                                                                                              
+
+Animation 1: Write(Text('向“新”而行，')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 2 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             5fd70faf6233439dbf94f84a7958                      
+                             cff3cae974dda473087301375414                      
+                             5045cf38)                                         
+                                                                               
+
+Animation 2: Write(Text('以“创”致远')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 3 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             322e19f90df137c212328ce2e5c6                      
+                             b41cadfa5459b699752b63914179                      
+                             570bca38)                                         
+                                                                             
+
+Animation 3: FadeIn(Text('——从《关于发展新质生产力的意见》看“创新驱动发展”')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 4 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             e4cf50f2be52acc9702030245f98                      
+                             f50f82172cd98ae7c63fd82088f4                      
+                             c0cb2198)                                         
+                                                                                                                    
+
+Animation 4: LaggedStart(Group):   0%|          | 0/1 [00:00<?, ?it/s]
+                                                                      
+┌───────────────────── Traceback (most recent call last) ─────────────────────┐
+│ C:\Users\kylez\AppData\Local\Programs\Python\Python314\Lib\site-packages\ma │
+│ nim\cli\render\commands.py:122 in render                                    │
+│                                                                             │
+│   119 │   │   │   │   │   scene = SceneClass()                              │
+│   120 │   │   │   │   │   # Attach explicitly, but preserve custom Scene.re │
+│   121 │   │   │   │   │   Manager(scene)                                    │
+│ > 122 │   │   │   │   │   scene.render()                                    │
+│   123 │   except Exception:                                                 │
+│   124 │   │   error_console.print_exception()                               │
+│   125 │   │   sys.exit(1)                                                   │
+│                                                                             │
+│ C:\Users\kylez\Doubao\chats\2026-10-17\new-chat\shizheng_manim\shizheng_ppt │
+│ x.py:37 in _slide_render_compat                                             │
+│                                                                             │
+│    34 │   max_files_cached = _cfg["max_files_cached"]                       │
+│    35 │   _cfg["max_files_cached"] = -1  # -1 = 不限制                      │
+│    36 │                                                                     │
+│ >  37 │   super(_msm.Slide, self).render(*a, **kw)                          │
+│    38 │                                                                     │
+│    39 │   _cfg["max_files_cached"] = max_files_cached                       │
+│    40                                                                       │
+│                                                                             │
+│ C:\Users\kylez\AppData\Local\Programs\Python\Python314\Lib\site-packages\ma │
+│ nim\scene\scene.py:320 in render                                            │
+│                                                                             │
+│    317 │   │   bool                                                         │
+│    318 │   │   │   Whether an interactive rerun was requested.              │
+│    319 │   │   """                                                          │
+│ >  320 │   │   return self._get_manager().render(preview)                   │
+│    321 │                                                                    │
+│    322 │   def _get_manager(self) -> Manager[Self]:                         │
+│    323 │   │   """Return this scene's manager, creating it for legacy entry │
+│                                                                             │
+│ C:\Users\kylez\AppData\Local\Programs\Python\Python314\Lib\site-packages\ma │
+│ nim\manager.py:155 in render                                                │
+│                                                                             │
+│   152 │   │                                                                 │
+│   153 │   │   self.setup()                                                  │
+│   154 │   │   try:                                                          │
+│ > 155 │   │   │   self.construct()                                          │
+│   156 │   │   except EndSceneEarlyException:                                │
+│   157 │   │   │   # Reaching the configured animation boundary ends the sce │
+│   158 │   │   │   pass                                                      │
+│                                                                             │
+│ C:\Users\kylez\AppData\Local\Programs\Python\Python314\Lib\site-packages\ma │
+│ nim\manager.py:193 in construct                                             │
+│                                                                             │
+│   190 │                                                                     │
+│   191 │   def construct(self) -> None:                                      │
+│   192 │   │   """Run the managed scene's :meth:`~manim.scene.scene.Scene.co │
+│ > 193 │   │   self.scene.construct()                                        │
+│   194 │                                                                     │
+│   195 │   def post_construct(self) -> None:                                 │
+│   196 │   │   """Finalize output after scene construction and tear-down.    │
+│                                                                             │
+│ C:\Users\kylez\Doubao\chats\2026-10-17\new-chat\shizheng_manim\shizheng_ppt │
+│ x.py:123 in construct                                                       │
+│                                                                             │
+│   120 │                                                                     │
+│   121 │   def construct(self):                                              │
+│   122 │   │   self.slide1()                                                 │
+│ > 123 │   │   self.slide2()                                                 │
+│   124 │   │   self.slide3()                                                 │
+│   125 │   │   self.slide4()                                                 │
+│   126 │   │   self.slide5()                                                 │
+│                                                                             │
+│ C:\Users\kylez\Doubao\chats\2026-10-17\new-chat\shizheng_manim\shizheng_ppt │
+│ x.py:223 in slide2                                                          │
+│                                                                             │
+│   220 │   # 第 2 页 · 时政速览                                              │
+│   221 │   # =============================================================== │
+│   222 │   def slide2(self):                                                 │
+│ > 223 │   │   self._transition(shift=UP * 2.5, scale=0.7, rt=0.8)  # 封面向 │
+│   224 │   │   self.camera.background_color = ManimColor(BG_CREAM)           │
+│   225 │   │   self.play_chrome("报道 · 01  时政速览",                       │
+│   226 │   │   │   │   │   │    "中共中央、国务院发布《关于发展新质生产力的  │
+│                                                                             │
+│ C:\Users\kylez\Doubao\chats\2026-10-17\new-chat\shizheng_manim\shizheng_ppt │
+│ x.py:140 in _transition                                                     │
+│                                                                             │
+│   137 │   │   """                                                           │
+│   138 │   │   if not self.mobjects:                                         │
+│   139 │   │   │   return                                                    │
+│ > 140 │   │   group = VGroup(*self.mobjects)                                │
+│   141 │   │   anim = FadeOut(group, shift=shift, scale=scale)               │
+│   142 │   │   if rotate:                                                    │
+│   143 │   │   │   # 旋转 + 淡出：用 Rotate 配合 fade                        │
+│                                                                             │
+│ C:\Users\kylez\AppData\Local\Programs\Python\Python314\Lib\site-packages\ma │
+│ nim\mobject\types\vectorized_mobject.py:2242 in __init__                    │
+│                                                                             │
+│   2239 │   │   self, *vmobjects: VMobject | Iterable[VMobject], **kwargs: A │
+│   2240 │   ) -> None:                                                       │
+│   2241 │   │   super().__init__(**kwargs)                                   │
+│ > 2242 │   │   self.add(*vmobjects)                                         │
+│   2243 │                                                                    │
+│   2244 │   def __repr__(self) -> str:                                       │
+│   2245 │   │   return f"{self.__class__.__name__}({', '.join(str(mob) for m │
+│                                                                             │
+│ C:\Users\kylez\AppData\Local\Programs\Python\Python314\Lib\site-packages\ma │
+│ nim\mobject\types\vectorized_mobject.py:2357 in add                         │
+│                                                                             │
+│   2354 │   │   │   elif isinstance(vmobject, Iterable) and isinstance(      │
+│   2355 │   │   │   │   vmobject, (Mobject, OpenGLMobject)                   │
+│   2356 │   │   │   ):                                                       │
+│ > 2357 │   │   │   │   raise TypeError(                                     │
+│   2358 │   │   │   │   │   f"{get_type_error_message(vmobject, (i, 0))} "   │
+│   2359 │   │   │   │   │   "You can try adding this value into a Group inst │
+│   2360 │   │   │   │   )                                                    │
+└─────────────────────────────────────────────────────────────────────────────┘
+TypeError: Only values of type VMobject can be added as submobjects of VGroup, 
+but the value ImageMobject (at index 0 of parameter 0) is of type ImageMobject.
+You can try adding this value into a Group instead.

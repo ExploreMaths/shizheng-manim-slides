@@ -1,0 +1,2106 @@
+﻿Manim Community v0.22.0
+
+python.exe : 
+所在位置 行:2 字符: 1
++ & "C:\Users\kylez\AppData\Local\Programs\Python\Python314\python.exe" ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Animation 0: Write(Text('时政演讲 · 道德与法治')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:23] INFO     Animation 0 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\88d7cfe7963a25a05                         
+                             b64096636c290a176a7535f9e                         
+                             1105ce4e33cf5724fdc1b0.mp                         
+                             4'                                                
+                                                                                               
+
+Animation 1: Write(Text('向“新”而行，')):   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 1 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\152c2cd00b56aa626                         
+                             cc849648330362bee28b8a369                         
+                             ebab2d9342b0d05849ad1d.mp                         
+                             4'                                                
+                                                                                
+
+Animation 2: Write(Text('以“创”致远')):   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 2 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\816aee329f04ed6f1                         
+                             66acc3348cad37473432797bf                         
+                             aec8b4f32311029441ade1.mp                         
+                             4'                                                
+                                                                              
+
+Animation 3: FadeIn(Text('——从《关于发展新质生产力的意见》看“创新驱动发展”')):   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 3 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\3645f994bf1db79a3                         
+                             9113d8385b51e05a6dec7d0de                         
+                             eed05696ad83707317992d.mp                         
+                             4'                                                
+                                                                                                                     
+
+Animation 4: LaggedStart(Group):   0%|          | 0/21 [00:00<?, ?it/s]
+Animation 4: LaggedStart(Group):  81%|########  | 17/21 [00:00<00:00, 159.83it/s]
+[10/17/26 15:43:24] INFO     Animation 4 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\e84443d3a5f25641a                         
+                             b0e555704f7673084d3bc47ad                         
+                             8e3547aa720da9cb350d15.mp                         
+                             4'                                                
+                    INFO     Animation 5 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\f2439c9d8da1c8dd0                         
+                             336970e41eeca948aab375e52                         
+                             1ff07bd585fdfbb588e87a.mp                         
+                             4'                                                
+                                                                                 
+
+Animation 6: _MethodAnimation(ImageMobject), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 6: _MethodAnimation(ImageMobject), etc.:   8%|8         | 1/12 [00:00<00:01,  9.66it/s]
+Animation 6: _MethodAnimation(ImageMobject), etc.:  17%|#6        | 2/12 [00:00<00:01,  9.53it/s]
+Animation 6: _MethodAnimation(ImageMobject), etc.:  25%|##5       | 3/12 [00:00<00:00,  9.52it/s]
+Animation 6: _MethodAnimation(ImageMobject), etc.:  33%|###3      | 4/12 [00:00<00:00,  9.59it/s]
+Animation 6: _MethodAnimation(ImageMobject), etc.:  50%|#####     | 6/12 [00:00<00:00, 10.01it/s]
+Animation 6: _MethodAnimation(ImageMobject), etc.:  67%|######6   | 8/12 [00:00<00:00, 10.88it/s]
+Animation 6: _MethodAnimation(ImageMobject), etc.:  83%|########3 | 10/12 [00:00<00:00, 11.54it/s]
+Animation 6: _MethodAnimation(ImageMobject), etc.: 100%|##########| 12/12 [00:01<00:00, 12.03it/s]
+[10/17/26 15:43:26] INFO     Animation 6 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\c7038d73813ab29b8                         
+                             570d0ef72a98de86ca4575fca                         
+                             dedadaca5a783abd8a1df1.mp                         
+                             4'                                                
+                                                                                                  
+
+Animation 7: Write(Text('报道 · 01  时政速览')):   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 7 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\56bcba9288ecf4431                         
+                             7937a1fb29e38a2f197990763                         
+                             ea088e8676ce56ffebbad0.mp                         
+                             4'                                                
+                                                                                       
+
+Animation 8: Write(Text('中共中央、国务院发布《关于发展新质生产力的意见》')):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 8: Write(Text('中共中央、国务院发布《关于发展新质生产力的意见》')):  73%|#######3  | 22/30 [00:00<00:00, 204.99it/s]
+[10/17/26 15:43:27] INFO     Animation 8 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\fe3a7a1a2028ac6e9                         
+                             d88671e45b901c7b9634aa898                         
+                             f824b63932befab7915f05.mp                         
+                             4'                                                
+                                                                                                                       
+       
+
+Animation 9: Create(Line), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 9 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\f4bb9d43512727f41                         
+                             1e12eab532dac6ba4662a6f7e                         
+                             5ee7220d774b31265a7c4a.mp                         
+                             4'                                                
+                                                                       
+
+Animation 10: FadeIn(Text('时\u3000间')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 10 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\ff1c906cf100b6c88                         
+                             0f753c89fdb7e30537d7d965f                         
+                             544b0455a2afe2c38ac44d.mp                         
+                             4'                                                
+                                                                                      
+
+Animation 11: FadeIn(Text('发布主体')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:28] INFO     Animation 11 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\6710e773482d9450c                         
+                             19bc2f8f559679e7a9ced395d                         
+                             69893c20c5ed9111af0567.mp                         
+                             4'                                                
+                                                                                    
+
+Animation 12: FadeIn(Text('文件名称')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 12 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\5a4d2d8b14da0ad42                         
+                             23b4d3101e1f69f4cb295961b                         
+                             060bc8da57d248608366fd.mp                         
+                             4'                                                
+                                                                                    
+
+Animation 13: GrowFromCenter(Text('5 个')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:29] INFO     Animation 13 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\83849c91e7de8879f                         
+                             41dc3fadfc0c93333489d7d3a                         
+                             ac3e52f90e62a782e483a0.mp                         
+                             4'                                                
+                                                                                        
+
+Animation 14: Circumscribe(Group):   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 14 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\e3b19290f39ddc567                         
+                             71bf0b4791b77226807adf79e                         
+                             b9b4fdd85609cf61cb0347.mp                         
+                             4'                                                
+                                                                         
+
+Animation 15: GrowFromCenter(Text('19 项')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:30] INFO     Animation 15 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\f18bb32e4fe17b08b                         
+                             0e5db4b3b1325b31021a3b895                         
+                             86e19bfebd7eb91af16d61.mp                         
+                             4'                                                
+                                                                                         
+
+Animation 16: Circumscribe(Group):   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 16 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\11ca618accf443f81                         
+                             8381ab1d791cd8c29f9d0e29d                         
+                             fe7377bf22b6c0353a95ae.mp                         
+                             4'                                                
+                                                                         
+
+Animation 17: GrowFromEdge(Rectangle), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 17: GrowFromEdge(Rectangle), etc.:  53%|#####3    | 16/30 [00:00<00:00, 151.42it/s]
+[10/17/26 15:43:31] INFO     Animation 17 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\c3876721f2228c14e                         
+                             cacb0888896fd36457da2c98e                         
+                             9f7e910bb770c6cb4710ba.mp                         
+                             4'                                                
+                                                                                             
+
+Animation 18: FadeIn(Text('为什么选这条新闻？——它正对应教材的核心考点：创新驱动发展。接下来按“报道 → 教材 → 点评”展开。')):   0%|          | 0/15 [00:00<?, ?it/
+s]
+Animation 18: FadeIn(Text('为什么选这条新闻？——它正对应教材的核心考点：创新驱动发展。接下来按“报道 → 教材 → 点评”展开。')): 100%|##########| 15/15 [00:00<00:00,
+ 143.77it/s]
+[10/17/26 15:43:32] INFO     Animation 18 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\df5b80e2a1188ac07                         
+                             e9522ff26d8882c4080a9dbf1                         
+                             2b92ebef61851356d7489a.mp                         
+                             4'                                                
+                    INFO     Animation 19 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\1b7ea0eb8ef2c171a                         
+                             2345f4bf973c7a7ee8bbc6afd                         
+                             92e9199ca4726eac9483fa.mp                         
+                             4'                                                
+                                                                                                                       
+                                                     
+
+Animation 20: _MethodAnimation(ImageMobject), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 20: _MethodAnimation(ImageMobject), etc.:   8%|8         | 1/12 [00:00<00:01,  9.48it/s]
+Animation 20: _MethodAnimation(ImageMobject), etc.:  17%|#6        | 2/12 [00:00<00:01,  9.39it/s]
+Animation 20: _MethodAnimation(ImageMobject), etc.:  25%|##5       | 3/12 [00:00<00:00,  9.39it/s]
+Animation 20: _MethodAnimation(ImageMobject), etc.:  33%|###3      | 4/12 [00:00<00:00,  9.50it/s]
+Animation 20: _MethodAnimation(ImageMobject), etc.:  42%|####1     | 5/12 [00:00<00:00,  9.57it/s]
+Animation 20: _MethodAnimation(ImageMobject), etc.:  50%|#####     | 6/12 [00:00<00:00,  9.68it/s]
+Animation 20: _MethodAnimation(ImageMobject), etc.:  58%|#####8    | 7/12 [00:00<00:00,  9.66it/s]
+Animation 20: _MethodAnimation(ImageMobject), etc.:  67%|######6   | 8/12 [00:00<00:00,  9.58it/s]
+Animation 20: _MethodAnimation(ImageMobject), etc.:  75%|#######5  | 9/12 [00:00<00:00,  9.60it/s]
+Animation 20: _MethodAnimation(ImageMobject), etc.:  83%|########3 | 10/12 [00:01<00:00,  9.57it/s]
+Animation 20: _MethodAnimation(ImageMobject), etc.:  92%|#########1| 11/12 [00:01<00:00,  9.62it/s]
+Animation 20: _MethodAnimation(ImageMobject), etc.: 100%|##########| 12/12 [00:01<00:00,  9.69it/s]
+[10/17/26 15:43:36] INFO     Animation 20 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\fc7d199c1b8859a8c                         
+                             13669264ca144969051b8574f                         
+                             c647e19e51c425ee95e0da.mp                         
+                             4'                                                
+                                                                                                   
+
+Animation 21: Write(Text('报道 · 01  要点梳理')):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:37] INFO     Animation 21 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\858b2679091301baa                         
+                             d616de31e0e94b4069f8a7440                         
+                             529d79ee187efacb443ce3.mp                         
+                             4'                                                
+                                                                                        
+
+Animation 22: Write(Text('《意见》部署五方面创新，科技创新居首')):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 22: Write(Text('《意见》部署五方面创新，科技创新居首')):  83%|########3 | 25/30 [00:00<00:00, 241.14it/s]
+                    INFO     Animation 22 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\500f95bf8129208ed                         
+                             d9de51a8f04280b771671efe1                         
+                             445262b3a43013c02773a7.mp                         
+                             4'                                                
+                                                                                                                   
+
+Animation 23: Create(Line), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:38] INFO     Animation 23 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\087972fbf8f87e762                         
+                             da928e357fa4a61075f0f8e05                         
+                             4cd2f741bd8a518e9bdca8.mp                         
+                             4'                                                
+                                                                        
+
+Animation 24: GrowFromCenter(Text('01')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:39] INFO     Animation 24 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\f2c0f6f31d3cd6805                         
+                             689746cefd295a45ea8a3955c                         
+                             2217ff4bec390f9cf13f39.mp                         
+                             4'                                                
+                                                                                      
+
+Animation 25: GrowFromCenter(Text('02')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:40] INFO     Animation 25 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\b1f8b6db558940add                         
+                             bb10ee2713c965f13567237da                         
+                             91f011d217cc03757d698c.mp                         
+                             4'                                                
+                                                                                      
+
+Animation 26: GrowFromCenter(Text('03')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:41] INFO     Animation 26 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\eff448a4f29c450e6                         
+                             6de8c7c35ca47c4a4086f49e5                         
+                             b03883c30a7bc89dfe6c5b.mp                         
+                             4'                                                
+                                                                                      
+
+Animation 27: GrowFromCenter(Text('04')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:42] INFO     Animation 27 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\4a19dd68c222c8f54                         
+                             e64e8950a197f942b9b5a8e72                         
+                             efe3d1c61dcab2fced8744.mp                         
+                             4'                                                
+                                                                                      
+
+Animation 28: GrowFromCenter(Text('05')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:43] INFO     Animation 28 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\ca49c404d007bc6eb                         
+                             906819c24f14e6e54d42eb7a5                         
+                             a00d6496c3871bbeb45ca4.mp                         
+                             4'                                                
+                                                                                      
+
+Animation 29: FadeIn(Text('注：左列为《意见》部署的五个方面（据新华社报道）；右列为演讲者结合教材知识所作的要点解读，帮助理解记忆。')):   0%|          | 0/15 [00:00<?, ?it
+/s]
+Animation 29: FadeIn(Text('注：左列为《意见》部署的五个方面（据新华社报道）；右列为演讲者结合教材知识所作的要点解读，帮助理解记忆。')):  87%|########6 | 13/15 [00:00<00:00
+, 129.34it/s]
+[10/17/26 15:43:44] INFO     Animation 29 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\f45b9d7ceed12a0d2                         
+                             4d542658423785dbd661d4c68                         
+                             bdc54178bd7d65400f0987.mp                         
+                             4'                                                
+                                                                                                                       
+                                                                 
+
+Animation 30: Write(Text('记忆钩子：“科技打头、产业落地、方式转型、机制护航、人才支撑”。')):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 30: Write(Text('记忆钩子：“科技打头、产业落地、方式转型、机制护航、人才支撑”。')):  73%|#######3  | 22/30 [00:00<00:00, 216.01it/s]
+[10/17/26 15:43:46] INFO     Animation 30 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\bdfd15762b1ef3245                         
+                             4df046924648c318453fad1ca                         
+                             a203fe2546ee9a53920a33.mp                         
+                             4'                                                
+                                                                                                                       
+                      
+
+Animation 31: Indicate(Text('记忆钩子：“科技打头、产业落地、方式转型、机制护航、人才支撑”。')):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:47] INFO     Animation 31 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\4ddf6bb37bcfb9934                         
+                             9b632f5c89234e3458f2a57bb                         
+                             a5a9079877635a088150b5.mp                         
+                             4'                                                
+[10/17/26 15:43:48] INFO     Animation 32 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\e68d3fa1de24c0d59                         
+                             f0ee5b62c4ec7c15e12a60ffb                         
+                             3a9f3c063585af0d939ed7.mp                         
+                             4'                                                
+                                                                                                                       
+               
+
+Animation 33: _MethodAnimation(ImageMobject), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 33: _MethodAnimation(ImageMobject), etc.:   8%|8         | 1/12 [00:00<00:01,  7.51it/s]
+Animation 33: _MethodAnimation(ImageMobject), etc.:  17%|#6        | 2/12 [00:00<00:01,  7.50it/s]
+Animation 33: _MethodAnimation(ImageMobject), etc.:  25%|##5       | 3/12 [00:00<00:01,  7.55it/s]
+Animation 33: _MethodAnimation(ImageMobject), etc.:  33%|###3      | 4/12 [00:00<00:01,  7.61it/s]
+Animation 33: _MethodAnimation(ImageMobject), etc.:  42%|####1     | 5/12 [00:00<00:00,  7.61it/s]
+Animation 33: _MethodAnimation(ImageMobject), etc.:  50%|#####     | 6/12 [00:00<00:00,  7.69it/s]
+Animation 33: _MethodAnimation(ImageMobject), etc.:  58%|#####8    | 7/12 [00:00<00:00,  7.60it/s]
+Animation 33: _MethodAnimation(ImageMobject), etc.:  67%|######6   | 8/12 [00:01<00:00,  7.81it/s]
+Animation 33: _MethodAnimation(ImageMobject), etc.:  75%|#######5  | 9/12 [00:01<00:00,  8.01it/s]
+Animation 33: _MethodAnimation(ImageMobject), etc.:  83%|########3 | 10/12 [00:01<00:00,  8.14it/s]
+Animation 33: _MethodAnimation(ImageMobject), etc.:  92%|#########1| 11/12 [00:01<00:00,  8.29it/s]
+Animation 33: _MethodAnimation(ImageMobject), etc.: 100%|##########| 12/12 [00:01<00:00,  8.49it/s]
+[10/17/26 15:43:53] INFO     Animation 33 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\2c506cd525d72b8ef                         
+                             1588c5675027066f5388ff4da                         
+                             3b9340ffaeebdcf4924505.mp                         
+                             4'                                                
+                                                                                                   
+
+Animation 34: Write(Text('报道 · 02  关联新闻')):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:43:54] INFO     Animation 34 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\6dcc364c169779ebd                         
+                             ff0b46b047c4bc09a5cf3aa82                         
+                             0bc262d876e3df3132b482.mp                         
+                             4'                                                
+[10/17/26 15:43:55] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                        
+
+Animation 35: Write(Text('一周内，40 项关键技术出口管制公开征求意见')):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 35: Write(Text('一周内，40 项关键技术出口管制公开征求意见')):  77%|#######6  | 23/30 [00:00<00:00, 229.96it/s]
+[10/17/26 15:43:56] INFO     Animation 35 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\8577a7071a24489b1                         
+                             c20d707b24ea734987a789718                         
+                             956d77e55bc8195e448e98.mp                         
+                             4'                                                
+[10/17/26 15:43:57] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+ 
+
+Animation 36: Create(Line), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 36 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\7106dec3fb798cd48                         
+                             9c9be60fdf33f1442cb988f2d                         
+                             c3e9625e976ccc37285420.mp                         
+                             4'                                                
+[10/17/26 15:43:58] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                        
+
+Animation 37: Write(Text('新闻事实')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 37: Write(Text('新闻事实')), etc.:  53%|#####3    | 16/30 [00:00<00:00, 159.96it/s]
+[10/17/26 15:43:59] INFO     Animation 37 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\9c307ce71d6e562cf                         
+                             a6dea134d87ecf56357497b9d                         
+                             e1c93c2ddcaff2a370ab7e.mp                         
+                             4'                                                
+[10/17/26 15:44:00] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                             
+
+Animation 38: Write(Text('拟增列人工智能、生物医药、光伏三个领域\n共 40 项关键技术。')):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 38: Write(Text('拟增列人工智能、生物医药、光伏三个领域\n共 40 项关键技术。')):  73%|#######3  | 22/30 [00:00<00:00, 214.71it/s]
+                    INFO     Animation 38 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\df7a45278bc80c2aa                         
+                             ba61307d717abc7038c7838ef                         
+                             a4af02781fcb595d1038bc.mp                         
+                             4'                                                
+[10/17/26 15:44:01] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+                  
+
+Animation 39: Write(Text('其中拟禁止出口 14 项，拟限制出口 26 项。')):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 39: Write(Text('其中拟禁止出口 14 项，拟限制出口 26 项。')):  90%|######### | 27/30 [00:00<00:00, 266.88it/s]
+[10/17/26 15:44:02] INFO     Animation 39 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\eb6ad2a48ed4551a5                         
+                             0a266729b0e7dfd651589814f                         
+                             0e178891d9faac0c76f814.mp                         
+                             4'                                                
+[10/17/26 15:44:03] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+
+Animation 40: Write(Text('商务部发言人：这是技术贸易管理的常态化工作，\n依法依规，不针对任何特定国家、地区或实体。')), etc.:   0%|          | 0/30 [00:00<?, ?it/s
+]
+Animation 40: Write(Text('商务部发言人：这是技术贸易管理的常态化工作，\n依法依规，不针对任何特定国家、地区或实体。')), etc.:  60%|######    | 18/30 [00:00<00:00, 
+177.80it/s]
+                    INFO     Animation 40 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\9a03dc799f528ff9e                         
+                             eef02e598b923e4a5f0928e75                         
+                             af8f47547fde45fe312a36.mp                         
+                             4'                                                
+[10/17/26 15:44:04] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+                                                      
+
+Animation 41: Write(Text('这条新闻释放什么信号？')):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:44:05] INFO     Animation 41 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\d3ced2151582548d9                         
+                             bc74a676b4bfda09af3ddda6e                         
+                             6386f9e849176c8e53e3e5.mp                         
+                             4'                                                
+[10/17/26 15:44:06] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                           
+
+Animation 42: FadeIn(Text('· 科技实力已成为国际竞争的核心，\n各主要经济体都在加强关键技术管控。')):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:44:07] INFO     Animation 42 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\058c013534316b463                         
+                             ca0a6a37ae2509e583db10060                         
+                             fb87296f0d84dda6645d9d.mp                         
+                             4'                                                
+[10/17/26 15:44:08] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+                   
+
+Animation 43: FadeIn(Text('· 关键技术关系国家安全与发展利益，\n必须掌握在自己手里。')):   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 43 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\8c2ae1a59720f5ada                         
+                             7a9c5a99d47894d5d456a2bc4                         
+                             d7dadb75bab9d169d3b657.mp                         
+                             4'                                                
+[10/17/26 15:44:09] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+       
+
+Animation 44: FadeIn(Text('· 管制不等于封闭：我国仍坚持扩大开放，\n推动国际科技合作。')):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:44:10] INFO     Animation 44 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\d76bdffe62674ba90                         
+                             f194677c01709d496f44a13fc                         
+                             469d0bb2b8ef47470111a4.mp                         
+                             4'                                                
+[10/17/26 15:44:11] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+         
+
+Animation 45: GrowFromEdge(Rectangle), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 45: GrowFromEdge(Rectangle), etc.:  60%|######    | 18/30 [00:00<00:00, 170.68it/s]
+                    INFO     Animation 45 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\a4ab0cc9694375b86                         
+                             f8beacd3d1ffeec717b9c4075                         
+                             b5d45441ece52994ab87e4.mp                         
+                             4'                                                
+[10/17/26 15:44:13] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                    INFO     Animation 46 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\7eabd764c31e50d95                         
+                             3fa0ae9f313a20c96116964d6                         
+                             9ac860fbef11f1151272f5.mp                         
+                             4'                                                
+[10/17/26 15:44:15] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                             
+
+Animation 47: _MethodAnimation(ImageMobject), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 47: _MethodAnimation(ImageMobject), etc.:   8%|8         | 1/12 [00:00<00:01,  5.85it/s]
+Animation 47: _MethodAnimation(ImageMobject), etc.:  17%|#6        | 2/12 [00:00<00:01,  5.78it/s]
+Animation 47: _MethodAnimation(ImageMobject), etc.:  25%|##5       | 3/12 [00:00<00:01,  5.82it/s]
+Animation 47: _MethodAnimation(ImageMobject), etc.:  33%|###3      | 4/12 [00:00<00:01,  5.93it/s]
+Animation 47: _MethodAnimation(ImageMobject), etc.:  42%|####1     | 5/12 [00:00<00:01,  6.06it/s]
+Animation 47: _MethodAnimation(ImageMobject), etc.:  50%|#####     | 6/12 [00:00<00:00,  6.12it/s]
+Animation 47: _MethodAnimation(ImageMobject), etc.:  58%|#####8    | 7/12 [00:01<00:00,  6.20it/s]
+Animation 47: _MethodAnimation(ImageMobject), etc.:  67%|######6   | 8/12 [00:01<00:00,  6.23it/s]
+Animation 47: _MethodAnimation(ImageMobject), etc.:  75%|#######5  | 9/12 [00:01<00:00,  6.29it/s]
+Animation 47: _MethodAnimation(ImageMobject), etc.:  83%|########3 | 10/12 [00:01<00:00,  6.25it/s]
+Animation 47: _MethodAnimation(ImageMobject), etc.:  92%|#########1| 11/12 [00:01<00:00,  6.26it/s]
+Animation 47: _MethodAnimation(ImageMobject), etc.: 100%|##########| 12/12 [00:01<00:00,  6.23it/s]
+[10/17/26 15:44:21] INFO     Animation 47 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\69c461d1e27cdf782                         
+                             d4e3fa907e73880104fd2db79                         
+                             cdbd92171948edffc90498.mp                         
+                             4'                                                
+[10/17/26 15:44:23] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                   
+
+Animation 48: Write(Text('教材 · 知识回顾')):   0%|          | 0/15 [00:00<?, ?it/s]
+                    INFO     Animation 48 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\974f11018c7dcb090                         
+                             5b8ed67def79c87c95aa3e9ec                         
+                             3cb9f2dd532c1c33133f19.mp                         
+                             4'                                                
+[10/17/26 15:44:24] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                    
+
+Animation 49: Write(Text('九上第二课《创新驱动发展》的四个核心观点')):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 49: Write(Text('九上第二课《创新驱动发展》的四个核心观点')):  70%|#######   | 21/30 [00:00<00:00, 197.89it/s]
+[10/17/26 15:44:25] INFO     Animation 49 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\ee0fe332c4e33ba06                         
+                             fc53a3dea4e606f7c52ed7923                         
+                             3e06b908502eb7a5989288.mp                         
+                             4'                                                
+[10/17/26 15:44:26] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+
+Animation 50: Create(Line), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:44:27] INFO     Animation 50 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\816c94be7f1f0ae87                         
+                             31ff433b2d023ef35e227389a                         
+                             d8195030655f1af4615682.mp                         
+                             4'                                                
+[10/17/26 15:44:28] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                        
+
+Animation 51: FadeIn(Text('人教版《道德与法治》九年级上册 · 第一单元“富强与创新”')):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:44:29] INFO     Animation 51 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\f32bd9343ec2afcc8                         
+                             6f6bddfdf6e48b39828003beb                         
+                             f4ae9bc079f770e57e1075.mp                         
+                             4'                                                
+[10/17/26 15:44:31] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+    
+
+Animation 52: GrowFromCenter(Text('01')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 52: GrowFromCenter(Text('01')), etc.:  73%|#######3  | 11/15 [00:00<00:00, 103.85it/s]
+[10/17/26 15:44:32] INFO     Animation 52 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\b43bb59dc85371918                         
+                             329fc948b469e20d16178e8bf                         
+                             42e7ee05da7939903ef320.mp                         
+                             4'                                                
+[10/17/26 15:44:33] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                
+
+Animation 53: GrowFromCenter(Text('02')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 53: GrowFromCenter(Text('02')), etc.:  80%|########  | 12/15 [00:00<00:00, 117.66it/s]
+[10/17/26 15:44:34] INFO     Animation 53 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\ff092163af4a07744                         
+                             3e5eba7ba116720cd11d2e723                         
+                             cfc0e173b89caab0938bf1.mp                         
+                             4'                                                
+[10/17/26 15:44:36] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                
+
+Animation 54: GrowFromCenter(Text('03')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 54: GrowFromCenter(Text('03')), etc.:  37%|###6      | 11/30 [00:00<00:00, 104.90it/s]
+Animation 54: GrowFromCenter(Text('03')), etc.:  73%|#######3  | 22/30 [00:00<00:00, 99.21it/s] 
+[10/17/26 15:44:37] INFO     Animation 54 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\aa883d9fe282d3d6e                         
+                             9f3e8cfced868c0155ef2924b                         
+                             4ba7a36f6257d3b98730fe.mp                         
+                             4'                                                
+[10/17/26 15:44:38] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                               
+
+Animation 55: GrowFromCenter(Text('04')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 55: GrowFromCenter(Text('04')), etc.:  73%|#######3  | 11/15 [00:00<00:00, 101.59it/s]
+[10/17/26 15:44:39] INFO     Animation 55 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\20d18bed3484c8251                         
+                             9f139715e6c11c8321f412f6a                         
+                             22cea9c61e5f4e732d8b8f.mp                         
+                             4'                                                
+[10/17/26 15:44:41] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                
+
+Animation 56: FadeIn(Text('以上表述综合自人教版《道德与法治》九年级上册第二课《创新驱动发展》。')):   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 56: FadeIn(Text('以上表述综合自人教版《道德与法治》九年级上册第二课《创新驱动发展》。')):  87%|########6 | 13/15 [00:00<00:00, 128.43it/s]
+[10/17/26 15:44:43] INFO     Animation 56 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\29c0e913de5d6f25c                         
+                             2a50dd2849161df1152c2a10b                         
+                             7fae0a72055a282436fc8a.mp                         
+                             4'                                                
+[10/17/26 15:44:44] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 15:44:45] INFO     Animation 57 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\087c4c39d65cf5218                         
+                             49dd0619e246b53a5b417d186                         
+                             d96aa35488595a6ba73023.mp                         
+                             4'                                                
+[10/17/26 15:44:48] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+                             
+
+Animation 58: _MethodAnimation(ImageMobject), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 58: _MethodAnimation(ImageMobject), etc.:   8%|8         | 1/12 [00:00<00:02,  4.28it/s]
+Animation 58: _MethodAnimation(ImageMobject), etc.:  17%|#6        | 2/12 [00:00<00:02,  4.28it/s]
+Animation 58: _MethodAnimation(ImageMobject), etc.:  25%|##5       | 3/12 [00:00<00:02,  4.34it/s]
+Animation 58: _MethodAnimation(ImageMobject), etc.:  33%|###3      | 4/12 [00:00<00:01,  4.40it/s]
+Animation 58: _MethodAnimation(ImageMobject), etc.:  42%|####1     | 5/12 [00:01<00:01,  4.43it/s]
+Animation 58: _MethodAnimation(ImageMobject), etc.:  50%|#####     | 6/12 [00:01<00:01,  4.47it/s]
+Animation 58: _MethodAnimation(ImageMobject), etc.:  58%|#####8    | 7/12 [00:01<00:01,  4.54it/s]
+Animation 58: _MethodAnimation(ImageMobject), etc.:  67%|######6   | 8/12 [00:01<00:00,  4.65it/s]
+Animation 58: _MethodAnimation(ImageMobject), etc.:  75%|#######5  | 9/12 [00:01<00:00,  4.83it/s]
+Animation 58: _MethodAnimation(ImageMobject), etc.:  83%|########3 | 10/12 [00:02<00:00,  4.93it/s]
+Animation 58: _MethodAnimation(ImageMobject), etc.:  92%|#########1| 11/12 [00:02<00:00,  4.96it/s]
+Animation 58: _MethodAnimation(ImageMobject), etc.: 100%|##########| 12/12 [00:02<00:00,  5.01it/s]
+[10/17/26 15:44:57] INFO     Animation 58 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\f7b6d5ee8b715d9d8                         
+                             8a44d415a26ed971e5b552eeb                         
+                             7d8b9ca74e0b84389f8950.mp                         
+                             4'                                                
+[10/17/26 15:44:58] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                   
+
+Animation 59: Write(Text('教材 · 考点对照')):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:45:00] INFO     Animation 59 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\836248ccf03e06c33                         
+                             a332af912b7252a2bc6247163                         
+                             3ae03d7798fa4a25becf01.mp                         
+                             4'                                                
+[10/17/26 15:45:01] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                    
+
+Animation 60: Write(Text('一条新闻里的四个考点：新闻事实 ↔ 教材观点')):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 60: Write(Text('一条新闻里的四个考点：新闻事实 ↔ 教材观点')):  60%|######    | 18/30 [00:00<00:00, 178.69it/s]
+[10/17/26 15:45:03] INFO     Animation 60 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\95ecfd1ebd4bef0e8                         
+                             c8d26595f7ae897b49eab9a94                         
+                             4acce639ad20e15f4c9db8.mp                         
+                             4'                                                
+[10/17/26 15:45:04] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+ 
+
+Animation 61: Create(Line), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 61: Create(Line), etc.:  80%|########  | 12/15 [00:00<00:00, 114.41it/s]
+[10/17/26 15:45:06] INFO     Animation 61 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\3d3525a8622e57899                         
+                             80dceab78964996c6b9801809                         
+                             b81eac0eed2749eb17c07b.mp                         
+                             4'                                                
+[10/17/26 15:45:07] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                  
+
+Animation 62: LaggedStart(Group):   0%|          | 0/24 [00:00<?, ?it/s]
+Animation 62: LaggedStart(Group):  88%|########7 | 21/24 [00:00<00:00, 208.00it/s]
+[10/17/26 15:45:09] INFO     Animation 62 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\2c657807c461be670                         
+                             6b081b04aba7ededd5451c608                         
+                             6bca732020468541490e9d.mp                         
+                             4'                                                
+[10/17/26 15:45:12] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                  
+
+Animation 63: Create(Rectangle), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 63: Create(Rectangle), etc.:  37%|###6      | 11/30 [00:00<00:00, 106.62it/s]
+Animation 63: Create(Rectangle), etc.:  73%|#######3  | 22/30 [00:00<00:00, 88.82it/s] 
+[10/17/26 15:45:14] INFO     Animation 63 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\1a0d4f7cbf5f73c27                         
+                             3d7412c13d733ba5d91ae6a02                         
+                             4801fc4940e4e3cbb762b7.mp                         
+                             4'                                                
+[10/17/26 15:45:15] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                      
+
+Animation 64: Create(Rectangle), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 64: Create(Rectangle), etc.:  47%|####6     | 14/30 [00:00<00:00, 130.85it/s]
+Animation 64: Create(Rectangle), etc.:  93%|#########3| 28/30 [00:00<00:00, 110.82it/s]
+[10/17/26 15:45:17] INFO     Animation 64 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\5b555d73176f0ea1e                         
+                             59406b962fb372dfa31362510                         
+                             1ae66b8622dfe89e484703.mp                         
+                             4'                                                
+[10/17/26 15:45:19] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                       
+
+Animation 65: Create(Rectangle), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 65: Create(Rectangle), etc.:  37%|###6      | 11/30 [00:00<00:00, 106.53it/s]
+Animation 65: Create(Rectangle), etc.:  73%|#######3  | 22/30 [00:00<00:00, 90.20it/s] 
+[10/17/26 15:45:22] INFO     Animation 65 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\b6ea838f1b42d3e02                         
+                             b38eeaa8a5f9f5779d6447085                         
+                             5b66cde6a49c0ff2b5c49b.mp                         
+                             4'                                                
+[10/17/26 15:45:23] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                      
+
+Animation 66: Create(Rectangle), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 66: Create(Rectangle), etc.:  43%|####3     | 13/30 [00:00<00:00, 120.65it/s]
+Animation 66: Create(Rectangle), etc.:  87%|########6 | 26/30 [00:00<00:00, 104.20it/s]
+[10/17/26 15:45:26] INFO     Animation 66 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\11766c1e8bb303c0f                         
+                             e212f97d5adce3fbbf8a2d4f1                         
+                             3389f58ec3e5d62754315f.mp                         
+                             4'                                                
+[10/17/26 15:45:27] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                       
+
+Animation 67: FadeIn(Text('用法提示：先找新闻里的“事实”，再对教材里的“观点”——一分事实配一分观点，踩点得分。')):   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 67: FadeIn(Text('用法提示：先找新闻里的“事实”，再对教材里的“观点”——一分事实配一分观点，踩点得分。')):  80%|########  | 12/15 [00:00<00:00, 113.30i
+t/s]
+[10/17/26 15:45:29] INFO     Animation 67 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\b89e707ba9d042999                         
+                             25ffcd6f927b589eb277bdd8b                         
+                             91f7e81d50be8bea67bf6b.mp                         
+                             4'                                                
+[10/17/26 15:45:31] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 15:45:33] INFO     Animation 68 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\997e992194cf10bea                         
+                             f2df3d3da3b7aac0bf9bc2f76                         
+                             ee77617114d8e460adedf8.mp                         
+                             4'                                                
+[10/17/26 15:45:36] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+                                         
+
+Animation 69: _MethodAnimation(ImageMobject), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 69: _MethodAnimation(ImageMobject), etc.:   8%|8         | 1/12 [00:00<00:02,  3.69it/s]
+Animation 69: _MethodAnimation(ImageMobject), etc.:  17%|#6        | 2/12 [00:00<00:02,  3.68it/s]
+Animation 69: _MethodAnimation(ImageMobject), etc.:  25%|##5       | 3/12 [00:00<00:02,  3.74it/s]
+Animation 69: _MethodAnimation(ImageMobject), etc.:  33%|###3      | 4/12 [00:01<00:02,  3.79it/s]
+Animation 69: _MethodAnimation(ImageMobject), etc.:  42%|####1     | 5/12 [00:01<00:01,  3.80it/s]
+Animation 69: _MethodAnimation(ImageMobject), etc.:  50%|#####     | 6/12 [00:01<00:01,  3.81it/s]
+Animation 69: _MethodAnimation(ImageMobject), etc.:  58%|#####8    | 7/12 [00:01<00:01,  3.93it/s]
+Animation 69: _MethodAnimation(ImageMobject), etc.:  67%|######6   | 8/12 [00:02<00:00,  4.00it/s]
+Animation 69: _MethodAnimation(ImageMobject), etc.:  75%|#######5  | 9/12 [00:02<00:00,  4.03it/s]
+Animation 69: _MethodAnimation(ImageMobject), etc.:  83%|########3 | 10/12 [00:02<00:00,  4.12it/s]
+Animation 69: _MethodAnimation(ImageMobject), etc.:  92%|#########1| 11/12 [00:02<00:00,  4.11it/s]
+Animation 69: _MethodAnimation(ImageMobject), etc.: 100%|##########| 12/12 [00:03<00:00,  4.05it/s]
+[10/17/26 15:45:48] INFO     Animation 69 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\73f7ae658b86cab74                         
+                             cd91ff8de539686f424e84347                         
+                             4418015b154b97a4ee7682.mp                         
+                             4'                                                
+[10/17/26 15:45:50] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                   
+
+Animation 70: Write(Text('点评 · 怎么看')):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:45:52] INFO     Animation 70 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\5dff65f5d1bf6144f                         
+                             6d9586a3f3df3de5b8729847a                         
+                             b7b33890a243681001b7ea.mp                         
+                             4'                                                
+[10/17/26 15:45:53] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                  
+
+Animation 71: Write(Text('三重逻辑读懂这份《意见》：发展、竞争与安全')):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 71: Write(Text('三重逻辑读懂这份《意见》：发展、竞争与安全')):  60%|######    | 18/30 [00:00<00:00, 170.81it/s]
+[10/17/26 15:45:56] INFO     Animation 71 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\9ab8bf3754315c8c2                         
+                             d280661482c505ff2ba3bd091                         
+                             3e7cd965ffe432a71ef5db.mp                         
+                             4'                                                
+[10/17/26 15:45:57] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                       
+  
+
+Animation 72: Create(Line), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:46:00] INFO     Animation 72 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\301787453dac871ca                         
+                             a2dbcca765ba0be1114c05f57                         
+                             7266abbbbb90db7e48b4d8.mp                         
+                             4'                                                
+[10/17/26 15:46:01] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                        
+
+Animation 73: GrowFromCenter(Text('①')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 73: GrowFromCenter(Text('①')), etc.:  40%|####      | 6/15 [00:00<00:00, 59.59it/s]
+Animation 73: GrowFromCenter(Text('①')), etc.:  80%|########  | 12/15 [00:00<00:00, 55.88it/s]
+[10/17/26 15:46:04] INFO     Animation 73 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\d486aff675c584e04                         
+                             fb9f704fc48c040ebc7bc2340                         
+                             a286fa1b38967540d67132.mp                         
+                             4'                                                
+[10/17/26 15:46:05] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                              
+
+Animation 74: GrowFromCenter(Text('②')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 74: GrowFromCenter(Text('②')), etc.:  47%|####6     | 7/15 [00:00<00:00, 62.88it/s]
+Animation 74: GrowFromCenter(Text('②')), etc.:  93%|#########3| 14/15 [00:00<00:00, 59.61it/s]
+[10/17/26 15:46:08] INFO     Animation 74 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\5492da162c74647c4                         
+                             3d93ca4432dbf8150348fd216                         
+                             e2fd99c2be6ab9346ef72a.mp                         
+                             4'                                                
+[10/17/26 15:46:10] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                              
+
+Animation 75: GrowFromCenter(Text('③')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 75: GrowFromCenter(Text('③')), etc.:  47%|####6     | 7/15 [00:00<00:00, 66.58it/s]
+Animation 75: GrowFromCenter(Text('③')), etc.:  93%|#########3| 14/15 [00:00<00:00, 62.98it/s]
+[10/17/26 15:46:14] INFO     Animation 75 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\4860b9bc119e1394c                         
+                             3478dc0c150816572e947f4f1                         
+                             fba205935c17e7bcd06509.mp                         
+                             4'                                                
+[10/17/26 15:46:15] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                              
+
+Animation 76: GrowFromEdge(Rectangle), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 76: GrowFromEdge(Rectangle), etc.:  43%|####3     | 13/30 [00:00<00:00, 127.30it/s]
+Animation 76: GrowFromEdge(Rectangle), etc.:  87%|########6 | 26/30 [00:00<00:00, 101.38it/s]
+[10/17/26 15:46:18] INFO     Animation 76 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\11eeb3c34acbc7938                         
+                             3346c20a33f97db5cd9e1afb1                         
+                             8aef8ce3522bab2af865fa.mp                         
+                             4'                                                
+[10/17/26 15:46:19] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 15:46:22] INFO     Animation 77 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\cb169e8d2b351e6cb                         
+                             0d376128ae4008bfc254b1a7e                         
+                             fca9ada6cc80d2bd8d8774.mp                         
+                             4'                                                
+[10/17/26 15:46:26] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                             
+
+Animation 78: _MethodAnimation(ImageMobject), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 78: _MethodAnimation(ImageMobject), etc.:   8%|8         | 1/12 [00:00<00:03,  3.03it/s]
+Animation 78: _MethodAnimation(ImageMobject), etc.:  17%|#6        | 2/12 [00:00<00:03,  2.96it/s]
+Animation 78: _MethodAnimation(ImageMobject), etc.:  25%|##5       | 3/12 [00:01<00:03,  2.95it/s]
+Animation 78: _MethodAnimation(ImageMobject), etc.:  33%|###3      | 4/12 [00:01<00:02,  3.16it/s]
+Animation 78: _MethodAnimation(ImageMobject), etc.:  42%|####1     | 5/12 [00:01<00:02,  3.32it/s]
+Animation 78: _MethodAnimation(ImageMobject), etc.:  50%|#####     | 6/12 [00:01<00:01,  3.47it/s]
+Animation 78: _MethodAnimation(ImageMobject), etc.:  58%|#####8    | 7/12 [00:02<00:01,  3.45it/s]
+Animation 78: _MethodAnimation(ImageMobject), etc.:  67%|######6   | 8/12 [00:02<00:01,  3.46it/s]
+Animation 78: _MethodAnimation(ImageMobject), etc.:  75%|#######5  | 9/12 [00:02<00:00,  3.46it/s]
+Animation 78: _MethodAnimation(ImageMobject), etc.:  83%|########3 | 10/12 [00:02<00:00,  3.49it/s]
+Animation 78: _MethodAnimation(ImageMobject), etc.:  92%|#########1| 11/12 [00:03<00:00,  3.48it/s]
+Animation 78: _MethodAnimation(ImageMobject), etc.: 100%|##########| 12/12 [00:03<00:00,  3.44it/s]
+[10/17/26 15:46:41] INFO     Animation 78 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\2b21a657b7a904081                         
+                             390fa65ff247a1b5e6d2f2cee                         
+                             f26b504752d1be533b0f06.mp                         
+                             4'                                                
+[10/17/26 15:46:42] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                   
+
+Animation 79: Write(Text('点评 · 我们怎么做')):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:46:45] INFO     Animation 79 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\e2dff50d5bd17aa5a                         
+                             5d70c2906d409331f7c3d67ab                         
+                             c7a1f861c3408b87bfd9a5.mp                         
+                             4'                                                
+[10/17/26 15:46:47] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                      
+
+Animation 80: Write(Text('强国建设，少年何为？四个行动现在做起')):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 80: Write(Text('强国建设，少年何为？四个行动现在做起')):  60%|######    | 18/30 [00:00<00:00, 174.53it/s]
+[10/17/26 15:46:50] INFO     Animation 80 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\62ebe6ee55f23234a                         
+                             c71767bf55f6de981da7af4e5                         
+                             56847eb0e9b0bf02d4f502.mp                         
+                             4'                                                
+[10/17/26 15:46:51] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                                   
+
+Animation 81: Create(Line), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:46:54] INFO     Animation 81 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\93dfeb1928a09eb2f                         
+                             7dec1513cb14d2b9723be2c80                         
+                             d294a49b1a514ef805d8de.mp                         
+                             4'                                                
+[10/17/26 15:46:55] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                        
+
+Animation 82: GrowFromCenter(Rectangle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:46:58] INFO     Animation 82 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\1af32fd85224c648c                         
+                             419503ce9b5e33c341b1548a9                         
+                             07646482b016ab9c33b154.mp                         
+                             4'                                                
+[10/17/26 15:46:59] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                     
+
+Animation 83: GrowFromCenter(Rectangle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:47:03] INFO     Animation 83 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\72c08a2a813df828c                         
+                             2b0337e66f3713eb154974faa                         
+                             b78da3079434d62846b477.mp                         
+                             4'                                                
+[10/17/26 15:47:04] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                     
+
+Animation 84: GrowFromCenter(Rectangle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 84: GrowFromCenter(Rectangle), etc.: 100%|##########| 15/15 [00:00<00:00, 145.81it/s]
+[10/17/26 15:47:07] INFO     Animation 84 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\7947ab19fcee101de                         
+                             efbab531368807eb0cb83fbfa                         
+                             5cc003e879054590ffbef8.mp                         
+                             4'                                                
+[10/17/26 15:47:08] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                               
+
+Animation 85: GrowFromCenter(Rectangle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:47:11] INFO     Animation 85 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\747efd77856171cba                         
+                             a1e2d33e7d82468e1a8c83f8c                         
+                             0422c3a4e7251b816047f6.mp                         
+                             4'                                                
+[10/17/26 15:47:13] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                     
+
+Animation 86: Create(Line), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 86: Create(Line), etc.:  50%|#####     | 15/30 [00:00<00:00, 149.43it/s]
+Animation 86: Create(Line), etc.: 100%|##########| 30/30 [00:00<00:00, 124.40it/s]
+[10/17/26 15:47:16] INFO     Animation 86 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\cdda193c90bb19669                         
+                             3c8fe5f65bba170b6e77cffbe                         
+                             44d8b62eaece7f1d0b7cbb.mp                         
+                             4'                                                
+[10/17/26 15:47:17] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                  
+
+Animation 87: FadeIn(Text('我的演讲到此结束，\n谢谢大家！')):   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 87: FadeIn(Text('我的演讲到此结束，\n谢谢大家！')): 100%|##########| 15/15 [00:00<00:00, 148.70it/s]
+[10/17/26 15:47:20] INFO     Animation 87 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\d73b0ea4c4f8cfe8e                         
+                             b920cd6a602aa6dc3008377a0                         
+                             e9d6c66a3556b717567064.mp                         
+                             4'                                                
+[10/17/26 15:47:21] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                                                              
+
+Animation 88: Circumscribe(Group):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:47:24] INFO     Animation 88 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\bdf2a49a0f309989c                         
+                             905ae1dda0fd1bc285e09055c                         
+                             512569f5de989f7264e9b0.mp                         
+                             4'                                                
+[10/17/26 15:47:26] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 15:47:29] INFO     Animation 89 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\66cae79e1c4e7aaf7                         
+                             20e252f0c6a6b7a7105b3a7f7                         
+                             69160d3bb8b695d31b269d.mp                         
+                             4'                                                
+[10/17/26 15:47:30] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                         
+
+Animation 90: Write(Text('谢谢大家！')):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:47:33] INFO     Animation 90 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\4312b7a2f794d61d9                         
+                             21bcc40683698c9d56ae61ee0                         
+                             1f77e1e3ef1c66e67add26.mp                         
+                             4'                                                
+[10/17/26 15:47:34] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                                                                               
+
+Animation 91: FadeIn(Text('演讲人：×××    ｜    班级：×××')):   0%|          | 0/15 [00:00<?, ?it/s]
+[10/17/26 15:47:37] INFO     Animation 91 : Partial    scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\pa                         
+                             rtial_movie_files\Shizhen                         
+                             gSlides\c994c3ba4f4f10488                         
+                             1702bb537d600b7e5214a5bc8                         
+                             27c690a98ec5a954078cf4.mp                         
+                             4'                                                
+                    INFO     Combining to Movie file.  scene_file_writer.py:877
+[10/17/26 15:47:38] INFO                               scene_file_writer.py:999
+                             File ready at                                     
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\480p15\Sh                         
+                             izhengSlides.mp4'                                 
+                                                                               
+                    INFO     The segment cache exceeded 100       caching.py:61
+                             files; removed 92 least recently                  
+                             used segment(s). Change                           
+                             max_files_cached to adjust this                   
+                             limit.                                            
+                    INFO     Rendered ShizhengSlides             manager.py:226
+                             Played 92 animations                              
+                                                                                                    
+
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:   0%|          | 0/9 [00:
+00<?, ? slides/s]
+
+Reversing large file by cutting it in segments:   0%|          | 0/2 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  50%|#####     | 1/2 [00:00<00:00,  2.13 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  11%|#1        | 1/9 [00:
+01<00:11,  1.41s/ slides]
+
+Reversing large file by cutting it in segments:   0%|          | 0/4 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  25%|##5       | 1/4 [00:00<00:01,  2.19 files/s][A
+
+Reversing large file by cutting it in segments:  75%|#######5  | 3/4 [00:00<00:00,  5.54 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  22%|##2       | 2/9 [00:
+02<00:10,  1.45s/ slides]
+
+Reversing large file by cutting it in segments:   0%|          | 0/4 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  25%|##5       | 1/4 [00:00<00:01,  2.60 files/s][A
+
+Reversing large file by cutting it in segments:  75%|#######5  | 3/4 [00:00<00:00,  6.75 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  33%|###3      | 3/9 [00:
+04<00:07,  1.33s/ slides]
+
+Reversing large file by cutting it in segments:   0%|          | 0/5 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  20%|##        | 1/5 [00:00<00:01,  2.13 files/s][A
+
+Reversing large file by cutting it in segments: 100%|##########| 5/5 [00:00<00:00, 10.24 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  44%|####4     | 4/9 [00:
+05<00:06,  1.34s/ slides]
+
+Reversing large file by cutting it in segments:   0%|          | 0/3 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  33%|###3      | 1/3 [00:00<00:00,  2.66 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  56%|#####5    | 5/9 [00:
+06<00:05,  1.27s/ slides]
+
+Reversing large file by cutting it in segments:   0%|          | 0/4 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  25%|##5       | 1/4 [00:00<00:01,  2.17 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  67%|######6   | 6/9 [00:
+07<00:03,  1.24s/ slides]
+
+Reversing large file by cutting it in segments:   0%|          | 0/3 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  33%|###3      | 1/3 [00:00<00:00,  3.11 files/s][A
+
+Reversing large file by cutting it in segments:  67%|######6   | 2/3 [00:00<00:00,  4.50 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  78%|#######7  | 7/9 [00:
+08<00:02,  1.24s/ slides]
+
+Reversing large file by cutting it in segments:   0%|          | 0/4 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  25%|##5       | 1/4 [00:00<00:00,  3.04 files/s][A
+
+Reversing large file by cutting it in segments:  50%|#####     | 2/4 [00:00<00:00,  4.53 files/s][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  89%|########8 | 8/9 [00:
+10<00:01,  1.21s/ slides]
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations: 100%|##########| 9/9 [00:
+10<00:00,  1.13 slides/s]
+[10/17/26 15:47:48] INFO     Generated 9 slides to                  base.py:680
+                             'C:\Users\kylez\Doubao\chats\2026-10-1            
+                             7\new-chat\shizheng_manim\slides\files            
+                             \ShizhengSlides'                                  
+[10/17/26 15:47:48] INFO     Generated 9 slides to                  base.py:680
+                             'C:\Users\kylez\Doubao\chats\2026-10-1            
+                             7\new-chat\shizheng_manim\slides\files            
+                             \ShizhengSlides'                                  
+                    INFO     Slide 'ShizhengSlides' configuration   base.py:692
+                             written in                                        
+                             'C:\Users\kylez\Doubao\chats\2026-10-1            
+                             7\new-chat\shizheng_manim\slides\Shizh            
+                             engSlides.json'                                   
+                    INFO     Slide 'ShizhengSlides' configuration   base.py:692
+                             written in                                        
+                             'C:\Users\kylez\Doubao\chats\2026-10-1            
+                             7\new-chat\shizheng_manim\slides\Shizh            
+                             engSlides.json'                                   
+                                                                                                                       
+                         

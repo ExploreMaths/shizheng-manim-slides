@@ -1,0 +1,1590 @@
+﻿Manim Community v0.22.0
+
+python.exe : 
+所在位置 行:2 字符: 1
++ & "C:\Users\kylez\AppData\Local\Programs\Python\Python314\python.exe" ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Animation 0: AnimationGroup(Group):   0%|          | 0/120 [00:00<?, ?it/s]
+Animation 0: AnimationGroup(Group):  10%|#         | 12/120 [00:00<00:00, 115.31it/s]
+Animation 0: AnimationGroup(Group):  20%|##        | 24/120 [00:00<00:00, 111.67it/s]
+Animation 0: AnimationGroup(Group):  30%|###       | 36/120 [00:00<00:00, 114.22it/s]
+Animation 0: AnimationGroup(Group):  41%|####      | 49/120 [00:00<00:00, 120.18it/s]
+Animation 0: AnimationGroup(Group):  52%|#####1    | 62/120 [00:00<00:00, 99.93it/s] 
+Animation 0: AnimationGroup(Group):  61%|######    | 73/120 [00:00<00:00, 94.25it/s]
+Animation 0: AnimationGroup(Group):  69%|######9   | 83/120 [00:00<00:00, 91.91it/s]
+Animation 0: AnimationGroup(Group):  78%|#######7  | 93/120 [00:00<00:00, 89.14it/s]
+Animation 0: AnimationGroup(Group):  86%|########5 | 103/120 [00:01<00:00, 85.22it/s]
+Animation 0: AnimationGroup(Group):  93%|#########3| 112/120 [00:01<00:00, 81.77it/s]
+[10/17/26 22:49:01] INFO     Animation 0 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\1080p60\p                         
+                             artial_movie_files\Shizhe                         
+                             ngSlides\730b94cae26d8961                         
+                             4ce6ab50f27e75d8e6229f872                         
+                             377bbad7333a9b11deb1b79.m                         
+                             p4'                                               
+                                                                                     
+
+Animation 1: FadeIn(MathTex('\\text{Made with}')), etc.:   0%|          | 0/60 [00:00<?, ?it/s]
+Animation 1: FadeIn(MathTex('\\text{Made with}')), etc.:  12%|#1        | 7/60 [00:00<00:00, 67.82it/s]
+Animation 1: FadeIn(MathTex('\\text{Made with}')), etc.:  25%|##5       | 15/60 [00:00<00:00, 71.05it/s]
+Animation 1: FadeIn(MathTex('\\text{Made with}')), etc.:  38%|###8      | 23/60 [00:00<00:00, 68.99it/s]
+Animation 1: FadeIn(MathTex('\\text{Made with}')), etc.:  50%|#####     | 30/60 [00:00<00:00, 69.13it/s]
+Animation 1: FadeIn(MathTex('\\text{Made with}')), etc.:  62%|######1   | 37/60 [00:00<00:00, 68.77it/s]
+Animation 1: FadeIn(MathTex('\\text{Made with}')), etc.:  73%|#######3  | 44/60 [00:00<00:00, 65.14it/s]
+Animation 1: FadeIn(MathTex('\\text{Made with}')), etc.:  85%|########5 | 51/60 [00:00<00:00, 65.12it/s]
+Animation 1: FadeIn(MathTex('\\text{Made with}')), etc.:  97%|#########6| 58/60 [00:00<00:00, 60.59it/s]
+[10/17/26 22:49:03] INFO     Animation 1 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\1080p60\p                         
+                             artial_movie_files\Shizhe                         
+                             ngSlides\82db2bfe8ac978d7                         
+                             55d51e65746452ba8d904dc7d                         
+                             a625ed736f2056fc9a153e7.m                         
+                             p4'                                               
+                                                                                                        
+
+Animation 2: Succession(Group):   0%|          | 0/90 [00:00<?, ?it/s]
+Animation 2: Succession(Group):   7%|6         | 6/90 [00:00<00:01, 52.53it/s]
+Animation 2: Succession(Group):  13%|#3        | 12/90 [00:00<00:01, 47.96it/s]
+Animation 2: Succession(Group):  20%|##        | 18/90 [00:00<00:01, 51.09it/s]
+Animation 2: Succession(Group):  27%|##6       | 24/90 [00:00<00:01, 52.80it/s]
+Animation 2: Succession(Group):  34%|###4      | 31/90 [00:00<00:01, 56.50it/s]
+Animation 2: Succession(Group):  44%|####4     | 40/90 [00:00<00:00, 66.25it/s]
+Animation 2: Succession(Group):  56%|#####5    | 50/90 [00:00<00:00, 75.69it/s]
+Animation 2: Succession(Group):  64%|######4   | 58/90 [00:00<00:00, 75.35it/s]
+Animation 2: Succession(Group):  73%|#######3  | 66/90 [00:00<00:00, 74.35it/s]
+Animation 2: Succession(Group):  83%|########3 | 75/90 [00:01<00:00, 77.33it/s]
+Animation 2: Succession(Group):  92%|#########2| 83/90 [00:01<00:00, 77.23it/s]
+[10/17/26 22:49:05] INFO     Animation 2 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\1080p60\p                         
+                             artial_movie_files\Shizhe                         
+                             ngSlides\5298ad364beb99ea                         
+                             4a8e61bd5439ff387f23c0d7f                         
+                             4cfc028611edf1285bfce4c.m                         
+                             p4'                                               
+                    INFO     Animation 3 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\1080p60\p                         
+                             artial_movie_files\Shizhe                         
+                             ngSlides\a7fc388f01fe08c3                         
+                             b8d8ce3f1a2469c8bc6250a42                         
+                             475b5bff29743ad94efb964.m                         
+                             p4'                                               
+                                                                               
+
+Animation 4: FadeOut(ManimBanner of 7 submobjects), etc.:   0%|          | 0/60 [00:00<?, ?it/s]
+Animation 4: FadeOut(ManimBanner of 7 submobjects), etc.:  20%|##        | 12/60 [00:00<00:00, 119.36it/s]
+Animation 4: FadeOut(ManimBanner of 7 submobjects), etc.:  40%|####      | 24/60 [00:00<00:00, 116.95it/s]
+Animation 4: FadeOut(ManimBanner of 7 submobjects), etc.:  60%|######    | 36/60 [00:00<00:00, 117.47it/s]
+Animation 4: FadeOut(ManimBanner of 7 submobjects), etc.:  80%|########  | 48/60 [00:00<00:00, 115.36it/s]
+Animation 4: FadeOut(ManimBanner of 7 submobjects), etc.: 100%|##########| 60/60 [00:00<00:00, 110.37it/s]
+[10/17/26 22:49:06] INFO     Animation 4 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\1080p60\p                         
+                             artial_movie_files\Shizhe                         
+                             ngSlides\0f533f815db4b8c2                         
+                             05018f14b18522a57639edc75                         
+                             35d3673d5324392603254c3.m                         
+                             p4'                                               
+                                                                                                          
+
+Animation 5: FadeIn(ImageMobject):   0%|          | 0/60 [00:00<?, ?it/s]
+Animation 5: FadeIn(ImageMobject):   2%|1         | 1/60 [00:00<00:15,  3.73it/s]
+Animation 5: FadeIn(ImageMobject):   3%|3         | 2/60 [00:00<00:14,  4.00it/s]
+Animation 5: FadeIn(ImageMobject):   5%|5         | 3/60 [00:00<00:13,  4.16it/s]
+Animation 5: FadeIn(ImageMobject):   7%|6         | 4/60 [00:00<00:13,  4.12it/s]
+Animation 5: FadeIn(ImageMobject):   8%|8         | 5/60 [00:01<00:13,  3.96it/s]
+Animation 5: FadeIn(ImageMobject):  10%|#         | 6/60 [00:01<00:13,  3.93it/s]
+Animation 5: FadeIn(ImageMobject):  12%|#1        | 7/60 [00:01<00:13,  3.92it/s]
+Animation 5: FadeIn(ImageMobject):  13%|#3        | 8/60 [00:02<00:13,  3.91it/s]
+Animation 5: FadeIn(ImageMobject):  15%|#5        | 9/60 [00:02<00:13,  3.88it/s]
+Animation 5: FadeIn(ImageMobject):  17%|#6        | 10/60 [00:02<00:12,  3.89it/s]
+Animation 5: FadeIn(ImageMobject):  18%|#8        | 11/60 [00:02<00:12,  3.96it/s]
+Animation 5: FadeIn(ImageMobject):  20%|##        | 12/60 [00:03<00:12,  4.00it/s]
+Animation 5: FadeIn(ImageMobject):  22%|##1       | 13/60 [00:03<00:11,  4.03it/s]
+Animation 5: FadeIn(ImageMobject):  23%|##3       | 14/60 [00:03<00:11,  4.02it/s]
+Animation 5: FadeIn(ImageMobject):  25%|##5       | 15/60 [00:03<00:11,  4.03it/s]
+Animation 5: FadeIn(ImageMobject):  27%|##6       | 16/60 [00:04<00:10,  4.02it/s]
+Animation 5: FadeIn(ImageMobject):  28%|##8       | 17/60 [00:04<00:10,  3.99it/s]
+Animation 5: FadeIn(ImageMobject):  30%|###       | 18/60 [00:04<00:10,  3.82it/s]
+Animation 5: FadeIn(ImageMobject):  32%|###1      | 19/60 [00:04<00:10,  3.82it/s]
+Animation 5: FadeIn(ImageMobject):  33%|###3      | 20/60 [00:05<00:10,  3.85it/s]
+Animation 5: FadeIn(ImageMobject):  35%|###5      | 21/60 [00:05<00:10,  3.88it/s]
+Animation 5: FadeIn(ImageMobject):  37%|###6      | 22/60 [00:05<00:09,  3.89it/s]
+Animation 5: FadeIn(ImageMobject):  38%|###8      | 23/60 [00:05<00:09,  3.90it/s]
+Animation 5: FadeIn(ImageMobject):  40%|####      | 24/60 [00:06<00:09,  3.91it/s]
+Animation 5: FadeIn(ImageMobject):  42%|####1     | 25/60 [00:06<00:09,  3.87it/s]
+Animation 5: FadeIn(ImageMobject):  43%|####3     | 26/60 [00:06<00:08,  3.80it/s]
+Animation 5: FadeIn(ImageMobject):  45%|####5     | 27/60 [00:06<00:08,  3.74it/s]
+Animation 5: FadeIn(ImageMobject):  47%|####6     | 28/60 [00:07<00:08,  3.83it/s]
+Animation 5: FadeIn(ImageMobject):  48%|####8     | 29/60 [00:07<00:08,  3.85it/s]
+Animation 5: FadeIn(ImageMobject):  50%|#####     | 30/60 [00:07<00:08,  3.68it/s]
+Animation 5: FadeIn(ImageMobject):  52%|#####1    | 31/60 [00:08<00:08,  3.61it/s]
+Animation 5: FadeIn(ImageMobject):  53%|#####3    | 32/60 [00:08<00:07,  3.56it/s]
+Animation 5: FadeIn(ImageMobject):  55%|#####5    | 33/60 [00:08<00:07,  3.47it/s]
+Animation 5: FadeIn(ImageMobject):  57%|#####6    | 34/60 [00:08<00:07,  3.40it/s]
+Animation 5: FadeIn(ImageMobject):  58%|#####8    | 35/60 [00:09<00:07,  3.37it/s]
+Animation 5: FadeIn(ImageMobject):  60%|######    | 36/60 [00:09<00:07,  3.39it/s]
+Animation 5: FadeIn(ImageMobject):  62%|######1   | 37/60 [00:09<00:06,  3.43it/s]
+Animation 5: FadeIn(ImageMobject):  63%|######3   | 38/60 [00:10<00:06,  3.43it/s]
+Animation 5: FadeIn(ImageMobject):  65%|######5   | 39/60 [00:10<00:06,  3.43it/s]
+Animation 5: FadeIn(ImageMobject):  67%|######6   | 40/60 [00:10<00:05,  3.44it/s]
+Animation 5: FadeIn(ImageMobject):  68%|######8   | 41/60 [00:10<00:05,  3.52it/s]
+Animation 5: FadeIn(ImageMobject):  70%|#######   | 42/60 [00:11<00:05,  3.52it/s]
+Animation 5: FadeIn(ImageMobject):  72%|#######1  | 43/60 [00:11<00:05,  3.37it/s]
+Animation 5: FadeIn(ImageMobject):  73%|#######3  | 44/60 [00:11<00:04,  3.30it/s]
+Animation 5: FadeIn(ImageMobject):  75%|#######5  | 45/60 [00:12<00:04,  3.27it/s]
+Animation 5: FadeIn(ImageMobject):  77%|#######6  | 46/60 [00:12<00:04,  3.26it/s]
+Animation 5: FadeIn(ImageMobject):  78%|#######8  | 47/60 [00:12<00:04,  3.24it/s]
+Animation 5: FadeIn(ImageMobject):  80%|########  | 48/60 [00:13<00:03,  3.21it/s]
+Animation 5: FadeIn(ImageMobject):  82%|########1 | 49/60 [00:13<00:03,  3.24it/s]
+Animation 5: FadeIn(ImageMobject):  83%|########3 | 50/60 [00:13<00:03,  3.23it/s]
+Animation 5: FadeIn(ImageMobject):  85%|########5 | 51/60 [00:14<00:02,  3.29it/s]
+Animation 5: FadeIn(ImageMobject):  87%|########6 | 52/60 [00:14<00:02,  3.28it/s]
+Animation 5: FadeIn(ImageMobject):  88%|########8 | 53/60 [00:14<00:02,  3.32it/s]
+Animation 5: FadeIn(ImageMobject):  90%|######### | 54/60 [00:14<00:01,  3.30it/s]
+Animation 5: FadeIn(ImageMobject):  92%|#########1| 55/60 [00:15<00:01,  3.28it/s]
+Animation 5: FadeIn(ImageMobject):  93%|#########3| 56/60 [00:15<00:01,  3.29it/s]
+Animation 5: FadeIn(ImageMobject):  95%|#########5| 57/60 [00:15<00:00,  3.30it/s]
+Animation 5: FadeIn(ImageMobject):  97%|#########6| 58/60 [00:16<00:00,  3.30it/s]
+Animation 5: FadeIn(ImageMobject):  98%|#########8| 59/60 [00:16<00:00,  3.32it/s]
+Animation 5: FadeIn(ImageMobject): 100%|##########| 60/60 [00:16<00:00,  3.36it/s]
+[10/17/26 22:49:23] INFO     Animation 5 : Partial     scene_file_writer.py:173
+                             movie file written in                             
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\1080p60\p                         
+                             artial_movie_files\Shizhe                         
+                             ngSlides\53379e6fe2045da5                         
+                             500898dd06ecf053bb9699093                         
+                             d5cd21cc1cd06d3c4f6efbc.m                         
+                             p4'                                               
+[10/17/26 22:49:26] INFO     Animation 6 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             9ffb88d226e9779a5c76880f407c                      
+                             a85013f79e630ca10d7187cc7b3c                      
+                             b88cc581)                                         
+                                                                                  
+
+Animation 6: Write(Text('时政演讲 · 道德与法治')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:27] INFO     Animation 7 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             cab06f8fef1499f1d26ec0eec796                      
+                             3650067575e5fdc12c162cb604f7                      
+                             ebe1e81e)                                         
+                                                                                              
+
+Animation 7: Write(Text('向“新”而行，')):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 8 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             e93273262376ed2f85bd443a86e1                      
+                             7f58dd0b0097110304ace519230f                      
+                             d47d81d0)                                         
+                                                                               
+
+Animation 8: Write(Text('以“创”致远')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:28] INFO     Animation 9 : Using cached   cairo_renderer.py:105
+                             data (hash :                                      
+                             f52d22f829a30dbc386779db927d                      
+                             ec7f41afe9d666761dcdd2d80ce6                      
+                             e773c19e)                                         
+                                                                             
+
+Animation 9: FadeIn(Text('——从《关于发展新质生产力的意见》看“创新驱动发展”')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:29] INFO     Animation 10 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             76bc9ab2304fd484f9591eb7e659                      
+                             902e777c9fdb205d6181aee280f8                      
+                             7e2ff95e)                                         
+                                                                                                                    
+
+Animation 10: LaggedStart(Group):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:30] INFO     Animation 11 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             68d8a2175c0265765b1c8c956e36                      
+                             2f612405e25984fbb1aef6a29819                      
+                             e8ad7358)                                         
+[10/17/26 22:49:31] INFO     Animation 12 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             9016b88941de2a993d61a794de00                      
+                             a94a25ddbd19939fb56db95f0d7c                      
+                             8dd87596)                                         
+                                                                       
+
+Animation 12: _MethodAnimation(Group), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 12: _MethodAnimation(Group), etc.: 100%|##########| 1/1 [00:00<00:00,  2.75it/s]
+[10/17/26 22:49:33] INFO     Animation 13 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             bd17c92f90f60b002f3b94d36bf4                      
+                             bc1428fb73feb5cebd34283ae5d4                      
+                             3d6c0a6c)                                         
+                                                                                          
+
+Animation 13: Write(Text('报道 · 01  时政速览')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:34] INFO     Animation 14 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             4dff37d33ee785aea605ba1e2865                      
+                             45f123f04ec674c74162863ed566                      
+                             8a62f5fa)                                         
+                                                                                       
+
+Animation 14: Write(Text('中共中央、国务院发布《关于发展新质生产力的意见》')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:35] INFO     Animation 15 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             84e665205b62f42e4e1b74667558                      
+                             7eb146ba53c6e400ee98d2eef7b8                      
+                             99a01fe4)                                         
+                                                                                                                    
+
+Animation 15: Write(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:36] INFO     Animation 16 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             b70156bdf61c2d3b71ea76558629                      
+                             7a23a5e7aef0bce0c3b56a18f796                      
+                             06021bd1)                                         
+                                                                      
+
+Animation 16: FadeIn(Text('时\u3000间')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 17 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             7c680a64f83074ae5c80981ae8b5                      
+                             9864895c5a298370ba4aac60dc77                      
+                             3d13fcf1)                                         
+                                                                                     
+
+Animation 17: FadeIn(Text('发布主体')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:37] INFO     Animation 18 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             6db7f01d583cf2648b4d442e74a3                      
+                             a3886481c39e71b2ec6fc82e23db                      
+                             833107ea)                                         
+                                                                                   
+
+Animation 18: FadeIn(Text('文件名称')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 19 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             8723299028c877b31214ab14dcad                      
+                             8f1bfe932ad2f442c76bb1d0e648                      
+                             df3d1ea1)                                         
+                                                                                   
+
+Animation 19: GrowFromCenter(Text('5 个')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:38] INFO     Animation 20 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             84bd8c980a27a0889af7d323fa00                      
+                             101ed1a905eece282221f451b3cf                      
+                             fc8e0e86)                                         
+                                                                                       
+
+Animation 20: Circumscribe(Group):   0%|          | 0/1 [00:00<?, ?it/s]
+                    INFO     Animation 21 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             2c324b825086ad8be746d7bb7197                      
+                             2def5af61e39145e4fde9774f5e9                      
+                             1c2b1576)                                         
+                                                                        
+
+Animation 21: GrowFromCenter(Text('19 项')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:39] INFO     Animation 22 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             e3ddb4303c4523c735725c142b7d                      
+                             c589b50ae18801728dfe06af2c62                      
+                             1b86238b)                                         
+                                                                                        
+
+Animation 22: Circumscribe(Group):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:40] INFO     Animation 23 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             41dcbffa55691be9f7044a3c0789                      
+                             b9eafa7a863848f4b255af9dd4d2                      
+                             f05d2a95)                                         
+                                                                        
+
+Animation 23: GrowFromEdge(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:41] INFO     Animation 24 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             3b4bf1067e57571c5aea200d2151                      
+                             7be345bd97950ffb67742a9b035e                      
+                             159d5c7b)                                         
+                                                                                  
+
+Animation 24: FadeIn(Text('为什么选这条新闻？——它正对应教材的核心考点：创新驱动发展。接下来按“报道 → 教材 → 点评”展开。')):   0%|          | 0/1 [00:00<?, ?it/s
+]
+[10/17/26 22:49:42] INFO     Animation 25 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             e9a25fa30cded20c59aef3e1189d                      
+                             44773018513ad450303261fb23fa                      
+                             7d003c2c)                                         
+[10/17/26 22:49:43] INFO     Animation 26 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             ddd2412179ccfc83e01fef706ba7                      
+                             7bb24b4c4e677bf18d0052d8c72a                      
+                             fbc45e97)                                         
+                                                                                                                       
+                                          
+
+Animation 26: _MethodAnimation(Group), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 26: _MethodAnimation(Group), etc.: 100%|##########| 1/1 [00:00<00:00,  5.02it/s]
+[10/17/26 22:49:45] INFO     Animation 27 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             76156f2b06f6c86e9d146c007f72                      
+                             c79fda6bdb49ac12195d988aa287                      
+                             64c5b873)                                         
+                                                                                          
+
+Animation 27: Write(Text('报道 · 01  要点梳理')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:46] INFO     Animation 28 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             8f071529604fd59c0b34ee7c8164                      
+                             738264b32c8cca036722aacd41e8                      
+                             7dbe38d3)                                         
+                                                                                       
+
+Animation 28: Write(Text('《意见》部署五方面创新，科技创新居首')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:47] INFO     Animation 29 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             dd7364bac41ceef01fb66601fdf5                      
+                             7aa7e1b13e8e469482e891d34fc0                      
+                             05a4e318)                                         
+                                                                                                        
+
+Animation 29: Write(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:48] INFO     Animation 30 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             385de5f79ef0bf7e0f9f3ccbade8                      
+                             19b46cecd4f02de8ccda75a63553                      
+                             9bb44232)                                         
+                                                                      
+
+Animation 30: GrowFromCenter(Text('01')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:50] INFO     Animation 31 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             127dd098ec3cfad369955faf20d9                      
+                             917f9fb6430dadebeef7b17093eb                      
+                             a4538b0e)                                         
+                                                                                     
+
+Animation 31: GrowFromCenter(Text('02')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:51] INFO     Animation 32 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             94ca96190afa6c2da5301223142d                      
+                             a627e8c691351f64297976d75a24                      
+                             c90d7bff)                                         
+                                                                                     
+
+Animation 32: GrowFromCenter(Text('03')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:52] INFO     Animation 33 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             b279f5f1f279e8b773cf086ca0a4                      
+                             8d381e898032fff790ddf691f935                      
+                             545b5463)                                         
+                                                                                     
+
+Animation 33: GrowFromCenter(Text('04')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:54] INFO     Animation 34 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             6eed6ddcb0087f373327f178be85                      
+                             3a3f2e1cd15441015c71ab3f5c40                      
+                             34f6a217)                                         
+                                                                                     
+
+Animation 34: GrowFromCenter(Text('05')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:55] INFO     Animation 35 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             fa37966a85129bff6cbe149304d9                      
+                             008f357a69de01d6e406ea90ba11                      
+                             085cf016)                                         
+                                                                                     
+
+Animation 35: FadeIn(Text('注：左列为《意见》部署的五个方面（据新华社报道）；右列为演讲者结合教材知识所作的要点解读，帮助理解记忆。')):   0%|          | 0/1 [00:00<?, ?it/
+s]
+[10/17/26 22:49:56] INFO     Animation 36 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             b16b4b56c8ce716f500d6f28b5e4                      
+                             fa33127213b554e77b6bcf4c418b                      
+                             b20c677b)                                         
+                                                                                                                       
+                                                      
+
+Animation 36: Write(Text('记忆钩子：“科技打头、产业落地、方式转型、机制护航、人才支撑”。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:49:58] INFO     Animation 37 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             1815d4f7773ab651c41c089cd959                      
+                             719e5faacdeb33a96638607d786e                      
+                             b6b00edf)                                         
+                                                                                                                       
+           
+
+Animation 37: Indicate(Text('记忆钩子：“科技打头、产业落地、方式转型、机制护航、人才支撑”。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:50:00] INFO     Animation 38 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             5f503c12a4f74be4526c02622b43                      
+                             4e9dd6f29b8535a3cd6fc41c8784                      
+                             d8367710)                                         
+[10/17/26 22:50:11] INFO     Animation 39 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             a3e56b89551ebda590e4f6fb882b                      
+                             cfdfaf5262319514bb4a2c2c1e6e                      
+                             f53d8470)                                         
+                                                                                                                       
+              
+
+Animation 39: _MethodAnimation(Group), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 39: _MethodAnimation(Group), etc.: 100%|##########| 1/1 [00:00<00:00,  1.42it/s]
+[10/17/26 22:50:25] INFO     Animation 40 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             870089f4e9e12a0900ca63b05b8e                      
+                             1897c3174f643615db33834d04c4                      
+                             0d730ac8)                                         
+                                                                                          
+
+Animation 40: Write(Text('报道 · 02  关联新闻')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:50:29] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+[10/17/26 22:50:30] WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                    INFO     Animation 41 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             31bdab9d912168d65469cd526f67                      
+                             100f92cad2035936867cd188811a                      
+                             80f9d040)                                         
+                                                                                       
+
+Animation 41: Write(Text('一周内，40 项关键技术出口管制公开征求意见')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:50:34] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                    INFO     Animation 42 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             2a5db4edb33d1daedf19e0fb625b                      
+                             3fdd79468a7b2520659af7f1225c                      
+                             912c3042)                                         
+                                                                                                             
+
+Animation 42: Write(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 42: Write(Line), etc.: 100%|##########| 1/1 [00:00<00:00,  4.57it/s]
+[10/17/26 22:50:40] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                    INFO     Animation 43 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             3c5299ea0f79d05483092a670bff                      
+                             69272a219deb742d7d5b40d8dc87                      
+                             94c84660)                                         
+                                                                              
+
+Animation 43: Write(Text('新闻事实')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:50:46] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+                    INFO     Animation 44 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             1ce7f0212bf00b668741baca6578                      
+                             181a918933622d98b84ef7fe494b                      
+                             cb8b5ec4)                                         
+                                                                                  
+
+Animation 44: Write(Text('拟增列人工智能、生物医药、光伏三个领域\n共 40 项关键技术。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:50:55] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:50:56] INFO     Animation 45 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             09eae85b259466fc88132fee2428                      
+                             1caef787b3991f87f07adfc599f0                      
+                             3cff6fa3)                                         
+                                                                                                                       
+       
+
+Animation 45: Write(Text('其中拟禁止出口 14 项，拟限制出口 26 项。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:51:02] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:51:03] INFO     Animation 46 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             d24a9c46d59539157b7ebd567877                      
+                             9f477f93eb85b3f043684593a73c                      
+                             48788d0e)                                         
+                                                                                                            
+
+Animation 46: Write(Text('商务部发言人：这是技术贸易管理的常态化工作，\n依法依规，不针对任何特定国家、地区或实体。')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 46: Write(Text('商务部发言人：这是技术贸易管理的常态化工作，\n依法依规，不针对任何特定国家、地区或实体。')), etc.: 100%|##########| 1/1 [00:00<00:00,  4
+.35it/s]
+[10/17/26 22:51:07] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:51:08] INFO     Animation 47 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             067107eb4184eb69ff75d7e83b34                      
+                             8f19688c130e9c1c6d246a0bfa47                      
+                             039236ff)                                         
+                                                                                                                       
+                                                   
+
+Animation 47: Write(Text('这条新闻释放什么信号？')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:51:12] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:51:13] INFO     Animation 48 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             d867674ed8bc5d470b4b5b236486                      
+                             f974f2af657c0953898616b90808                      
+                             23aa6a90)                                         
+                                                                                          
+
+Animation 48: FadeIn(Text('· 科技实力已成为国际竞争的核心，\n各主要经济体都在加强关键技术管控。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:51:18] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:51:19] INFO     Animation 49 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             33291a0cf7adb890f7adf713ba1c                      
+                             cb3b56b61a6e4c9a98f36ca6754a                      
+                             c0be3729)                                         
+                                                                                                                       
+                  
+
+Animation 49: FadeIn(Text('· 关键技术关系国家安全与发展利益，\n必须掌握在自己手里。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:51:25] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:51:26] INFO     Animation 50 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             05b8384b63ff1f9885c6374c6d0d                      
+                             91b4a683c2c41fd72ce48144ca02                      
+                             a3ade9cc)                                         
+                                                                                                                       
+      
+
+Animation 50: FadeIn(Text('· 管制不等于封闭：我国仍坚持扩大开放，\n推动国际科技合作。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:51:30] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:51:31] INFO     Animation 51 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             34829a1b915ff0945e216c2156f7                      
+                             898cadc4124c3b77076415185361                      
+                             8d57fe67)                                         
+                                                                                                                       
+        
+
+Animation 51: GrowFromEdge(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 51: GrowFromEdge(Rectangle), etc.: 100%|##########| 1/1 [00:00<00:00,  4.30it/s]
+[10/17/26 22:51:36] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:51:37] INFO     Animation 52 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             ad1e0ebb63840f520e039d5fd61e                      
+                             e6e4f895f0cd1a835c8b8cdc7038                      
+                             75f4c5a0)                                         
+[10/17/26 22:51:45] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:51:47] INFO     Animation 53 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             c42d0eb7706028723b6325c64b5e                      
+                             e4a595e508b0256c89c9f6810182                      
+                             68786111)                                         
+                                                                                          
+
+Animation 53: _MethodAnimation(Group), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 53: _MethodAnimation(Group), etc.: 100%|##########| 1/1 [00:00<00:00,  1.15it/s]
+[10/17/26 22:52:03] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:52:05] INFO     Animation 54 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             339b0edd4d658c4ed1031bf05659                      
+                             9ca3dcae7291a4b588f649763729                      
+                             640c1efe)                                         
+                                                                                          
+
+Animation 54: Write(Text('教材 · 知识回顾')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:52:10] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:52:11] INFO     Animation 55 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             3b7fcea297267e12b6fe7af17b9b                      
+                             15e862915c2694f01ed88f397c58                      
+                             038a50bf)                                         
+                                                                                   
+
+Animation 55: Write(Text('九上第二课《创新驱动发展》的四个核心观点')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:52:16] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:52:18] INFO     Animation 56 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             46efa3a3e187b9ced098e61cabe1                      
+                             6eda28650bdfee3723551629f97f                      
+                             c52ea0d5)                                         
+                                                                                                            
+
+Animation 56: Write(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 56: Write(Line), etc.: 100%|##########| 1/1 [00:00<00:00,  4.06it/s]
+[10/17/26 22:52:21] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:52:23] INFO     Animation 57 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             004e68e813df5406a21648692d6a                      
+                             aef0bf86f78796a7f72c18e9f796                      
+                             6e16391b)                                         
+                                                                              
+
+Animation 57: FadeIn(Text('人教版《道德与法治》九年级上册 · 第一单元“富强与创新”')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:52:27] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:52:29] INFO     Animation 58 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             bfc864f64c10e29f3674382447bc                      
+                             346426203c7d327cc5d4291afd4a                      
+                             0def0477)                                         
+                                                                                                                       
+   
+
+Animation 58: GrowFromCenter(Text('01')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 58: GrowFromCenter(Text('01')), etc.: 100%|##########| 1/1 [00:00<00:00,  2.78it/s]
+[10/17/26 22:52:33] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:52:35] INFO     Animation 59 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             905630343019089a02cfc609e7c1                      
+                             f98862bb641e31b0fd5af7a5dddd                      
+                             0d3b1384)                                         
+                                                                                             
+
+Animation 59: GrowFromCenter(Text('02')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 59: GrowFromCenter(Text('02')), etc.: 100%|##########| 1/1 [00:00<00:00,  3.72it/s]
+[10/17/26 22:52:41] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:52:43] INFO     Animation 60 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             2940732ca29fb1a642bd56fc9612                      
+                             cc223aeb84a39514f02cb39fc4a4                      
+                             012b6419)                                         
+                                                                                             
+
+Animation 60: GrowFromCenter(Text('03')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 60: GrowFromCenter(Text('03')), etc.: 100%|##########| 1/1 [00:00<00:00,  3.06it/s]
+[10/17/26 22:52:48] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:52:50] INFO     Animation 61 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             841bc31785cf58c5a335500565a3                      
+                             4ec5337ddefdd5567f7fe2ae6fb3                      
+                             1acc8e0d)                                         
+                                                                                             
+
+Animation 61: GrowFromCenter(Text('04')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 61: GrowFromCenter(Text('04')), etc.: 100%|##########| 1/1 [00:00<00:00,  2.98it/s]
+[10/17/26 22:52:55] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:52:58] INFO     Animation 62 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             92f8dbff548d6ea6bf18c6b25519                      
+                             f150f3db62a3f701a258ded25cd7                      
+                             ba29944b)                                         
+                                                                                             
+
+Animation 62: FadeIn(Text('以上表述综合自人教版《道德与法治》九年级上册第二课《创新驱动发展》。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:53:04] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:53:07] INFO     Animation 63 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             f92998da1011bcf3a0507f96ca31                      
+                             f91d983507f01715842af36093de                      
+                             0414c58b)                                         
+[10/17/26 22:53:18] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:53:21] INFO     Animation 64 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             617f1444f0e6124741cfad758c36                      
+                             a44d43751699db66dedf0122b0d8                      
+                             9f8d7697)                                         
+                                                                                                                       
+                  
+
+Animation 64: _MethodAnimation(Group), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 64: _MethodAnimation(Group), etc.: 100%|##########| 1/1 [00:01<00:00,  1.03s/it]
+[10/17/26 22:53:42] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:53:45] INFO     Animation 65 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             39753683875dc82659eba2b18a1b                      
+                             db6007351d335b19cea5cb31ff67                      
+                             a66b5ee1)                                         
+                                                                                          
+
+Animation 65: Write(Text('教材 · 考点对照')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:53:49] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:53:53] INFO     Animation 66 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             4ae5c244498b1b75c57337f9be34                      
+                             9534c5bf45f1b36c1cd98ba4d734                      
+                             69943c35)                                         
+                                                                                   
+
+Animation 66: Write(Text('一条新闻里的四个考点：新闻事实 ↔ 教材观点')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:53:57] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:54:01] INFO     Animation 67 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             489ef1620e4130174e8907ff74b0                      
+                             34d2b6b9ed26cc49c5635c36b043                      
+                             31c2be1f)                                         
+                                                                                                             
+
+Animation 67: Write(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 67: Write(Line), etc.: 100%|##########| 1/1 [00:00<00:00,  2.66it/s]
+[10/17/26 22:54:05] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:54:10] INFO     Animation 68 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             b2cc1c3f4376170f10858c93668a                      
+                             fe588d8ae0d52f82afc47253a0b5                      
+                             910dda93)                                         
+                                                                              
+
+Animation 68: LaggedStart(Group):   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 68: LaggedStart(Group): 100%|##########| 1/1 [00:00<00:00,  3.85it/s]
+[10/17/26 22:54:14] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:54:19] INFO     Animation 69 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             3e569af534b97ac60031fe706498                      
+                             015261a68d8308f6b75ccc6e89d8                      
+                             92abf7b8)                                         
+                                                                               
+
+Animation 69: Write(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 69: Write(Rectangle), etc.: 100%|##########| 1/1 [00:00<00:00,  2.46it/s]
+[10/17/26 22:54:24] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:54:28] INFO     Animation 70 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             48234863852bf67446754adabf97                      
+                             9ef2bdc8d5cd9d7b0fcd1f7d4a76                      
+                             9b992d42)                                         
+                                                                                   
+
+Animation 70: Write(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 70: Write(Rectangle), etc.: 100%|##########| 1/1 [00:00<00:00,  2.21it/s]
+[10/17/26 22:54:35] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:54:40] INFO     Animation 71 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             dbc779462ae12352c2fb8a77b1e7                      
+                             d452a73ade613d5bb2c98361749f                      
+                             cd761846)                                         
+                                                                                   
+
+Animation 71: Write(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 71: Write(Rectangle), etc.: 100%|##########| 1/1 [00:00<00:00,  2.33it/s]
+[10/17/26 22:54:45] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:54:49] INFO     Animation 72 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             20f17e1230d6df2c25fc3b099a49                      
+                             9325cdc8458a0dc31dafba54105d                      
+                             87e57180)                                         
+                                                                                   
+
+Animation 72: Write(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 72: Write(Rectangle), etc.: 100%|##########| 1/1 [00:00<00:00,  2.43it/s]
+[10/17/26 22:54:53] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:54:57] INFO     Animation 73 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             9fd6e91bf40443d4fbb15e4f2aa2                      
+                             6ab6536964e9b3c4fd11694c6e7c                      
+                             4dee1f1f)                                         
+                                                                                   
+
+Animation 73: FadeIn(Text('用法提示：先找新闻里的“事实”，再对教材里的“观点”——一分事实配一分观点，踩点得分。')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:55:01] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:55:06] INFO     Animation 74 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             1a774e74ba495a1f9aa5860a52d2                      
+                             d8c78f5d56fc659990800865f20b                      
+                             c59dc96c)                                         
+[10/17/26 22:55:21] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:55:26] INFO     Animation 75 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             b6e97216b7675fb4cbda3dbd9dee                      
+                             a7f7324dcc95d26bab04ec56e93b                      
+                             99195523)                                         
+                                                                                                                       
+                              
+
+Animation 75: _MethodAnimation(Group), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 75: _MethodAnimation(Group), etc.: 100%|##########| 1/1 [00:00<00:00,  3.03it/s]
+[10/17/26 22:55:43] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:55:47] INFO     Animation 76 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             897a8cab1c1e62fecb705845efa8                      
+                             a4566ce91f131b02ac0485944385                      
+                             0b0f36a1)                                         
+                                                                                          
+
+Animation 76: Write(Text('点评 · 怎么看')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:55:51] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:55:56] INFO     Animation 77 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             e80d1b90ad20af27f0d87ccf521f                      
+                             730e45c23a9623b5ee7f8cc857c4                      
+                             aeb8a84c)                                         
+                                                                                 
+
+Animation 77: Write(Text('三重逻辑读懂这份《意见》：发展、竞争与安全')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:56:00] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:56:05] INFO     Animation 78 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             fab1040d4a400d905e13a7113031                      
+                             1ad69d82b90293dd7eba34190b3e                      
+                             f85e4a6f)                                         
+                                                                                                              
+
+Animation 78: Write(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 78: Write(Line), etc.: 100%|##########| 1/1 [00:00<00:00,  2.90it/s]
+[10/17/26 22:56:09] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:56:14] INFO     Animation 79 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             93112b25e7ede8296551ffd697dc                      
+                             c2fe4d286354ce64232061d8695b                      
+                             6f72339e)                                         
+                                                                              
+
+Animation 79: GrowFromCenter(Text('①')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 79: GrowFromCenter(Text('①')), etc.: 100%|##########| 1/1 [00:00<00:00,  3.81it/s]
+[10/17/26 22:56:20] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:56:27] INFO     Animation 80 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             7c1d77b1106fef3791dcb400d554                      
+                             39d97c45a60d90a297e8a3485715                      
+                             8b0ef3e8)                                         
+                                                                                            
+
+Animation 80: GrowFromCenter(Text('②')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 80: GrowFromCenter(Text('②')), etc.: 100%|##########| 1/1 [00:00<00:00,  1.51it/s]
+[10/17/26 22:56:33] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:56:41] INFO     Animation 81 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             8dea38c93e40f1708aa4683e9b0b                      
+                             6e76fa632faae5a2f296b2ce41d4                      
+                             a7805ed8)                                         
+                                                                                            
+
+Animation 81: GrowFromCenter(Text('③')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 81: GrowFromCenter(Text('③')), etc.: 100%|##########| 1/1 [00:00<00:00,  1.34it/s]
+[10/17/26 22:56:48] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:56:57] INFO     Animation 82 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             3ca176ea92f0626872a5181cd66c                      
+                             c561eaa82f46f224b2650f952803                      
+                             73d2f5d3)                                         
+                                                                                            
+
+Animation 82: GrowFromEdge(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 82: GrowFromEdge(Rectangle), etc.: 100%|##########| 1/1 [00:00<00:00,  1.25it/s]
+[10/17/26 22:57:05] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:57:13] INFO     Animation 83 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             6fcd72274101dc3114a18976fc1e                      
+                             54bab49e60d9f970fae89eadb77d                      
+                             6c2ff031)                                         
+[10/17/26 22:57:27] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:57:36] INFO     Animation 84 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             575dc3af3c6db9720335bea1044a                      
+                             f433fa598f009d05fc200f127e0f                      
+                             2dac4b3d)                                         
+                                                                                          
+
+Animation 84: _MethodAnimation(Group), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 84: _MethodAnimation(Group), etc.: 100%|##########| 1/1 [00:00<00:00,  1.37it/s]
+[10/17/26 22:58:04] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:58:10] INFO     Animation 85 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             e4f6dd6021986bd92e611c65c80f                      
+                             4e2a2ff9384311aa571431d398e8                      
+                             903b5a08)                                         
+                                                                                          
+
+Animation 85: Write(Text('点评 · 我们怎么做')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:58:14] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:58:21] INFO     Animation 86 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             ad441279bcd82103a628013cd0b5                      
+                             8001749127baa59c0ed837df75ab                      
+                             21b47a15)                                         
+                                                                                     
+
+Animation 86: Write(Text('强国建设，少年何为？四个行动现在做起')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 22:58:25] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:58:31] INFO     Animation 87 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             67e276f23dcc069237002796b1f8                      
+                             ee1fdbeb7c4a04037cd77974a4cf                      
+                             8af945c6)                                         
+                                                                                                        
+
+Animation 87: Write(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 87: Write(Line), etc.: 100%|##########| 1/1 [00:00<00:00,  2.51it/s]
+[10/17/26 22:58:35] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:58:42] INFO     Animation 88 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             7fc84e426c843732abd35dc287a4                      
+                             a95a3118cc8c71df11aa0e86fc6b                      
+                             f3dae4d1)                                         
+                                                                              
+
+Animation 88: GrowFromCenter(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 88: GrowFromCenter(Rectangle), etc.: 100%|##########| 1/1 [00:00<00:00,  2.22it/s]
+[10/17/26 22:58:46] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:58:53] INFO     Animation 89 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             f3d65f4ba992181b39d29093dc26                      
+                             ec94d0ad4993c1daaef821903119                      
+                             df1819b5)                                         
+                                                                                            
+
+Animation 89: GrowFromCenter(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 89: GrowFromCenter(Rectangle), etc.: 100%|##########| 1/1 [00:00<00:00,  2.04it/s]
+[10/17/26 22:58:57] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:59:04] INFO     Animation 90 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             859ef67b143b18d3b1eabd52d24b                      
+                             d758b07d3d89a16126ac172f2271                      
+                             8050c800)                                         
+                                                                                            
+
+Animation 90: GrowFromCenter(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 90: GrowFromCenter(Rectangle), etc.: 100%|##########| 1/1 [00:00<00:00,  2.28it/s]
+[10/17/26 22:59:08] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:59:15] INFO     Animation 91 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             8aadafe7796382081191944001cc                      
+                             338888d72fbdec25158014e9d08b                      
+                             78656dcb)                                         
+                                                                                            
+
+Animation 91: GrowFromCenter(Rectangle), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 91: GrowFromCenter(Rectangle), etc.: 100%|##########| 1/1 [00:00<00:00,  1.90it/s]
+[10/17/26 22:59:19] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:59:26] INFO     Animation 92 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             cc87d9d6d375892a557ac2552f76                      
+                             81f3419da4fb9d186dc3fd0c55d3                      
+                             44852d56)                                         
+                                                                                            
+
+Animation 92: Write(Line), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 92: Write(Line), etc.: 100%|##########| 1/1 [00:00<00:00,  2.05it/s]
+[10/17/26 22:59:30] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:59:38] INFO     Animation 93 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             8b92372caf63236ab585560eade3                      
+                             5090d44c92bb3215488016c6f98f                      
+                             b1e4eff1)                                         
+[10/17/26 22:59:50] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 22:59:58] INFO     Animation 94 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             d4fcb8e5ea335b95b235db5dd562                      
+                             5e106a8674ffa63c37633dffaae4                      
+                             2b4a298e)                                         
+                                                                              
+
+Animation 94: _MethodAnimation(Group), etc.:   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 94: _MethodAnimation(Group), etc.: 100%|##########| 1/1 [00:00<00:00,  1.70it/s]
+[10/17/26 23:00:23] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 23:00:30] INFO     Animation 95 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             9c7f1650ab1b3da5c93687e885c7                      
+                             3c3012030bd7e25a92df074d1460                      
+                             a5c1c0a2)                                         
+                                                                                          
+
+Animation 95: FadeIn(ImageMobject):   0%|          | 0/1 [00:00<?, ?it/s]
+Animation 95: FadeIn(ImageMobject): 100%|##########| 1/1 [00:00<00:00,  1.03it/s]
+[10/17/26 23:00:34] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 23:00:41] INFO     Animation 96 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             467564375ba0c70a832cea32fe4c                      
+                             da30a1f3f40dd3ab64c544f9b975                      
+                             5d619f93)                                         
+                                                                                 
+
+Animation 96: Write(Text('谢谢大家！')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 23:00:45] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 23:00:53] INFO     Animation 97 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             f07a04bc3eec27194e684c603230                      
+                             48e8ed1a9ab1a933076ca5f44f2a                      
+                             db1668f3)                                         
+                                                                              
+
+Animation 97: FadeIn(Text('敬请各位老师同学批评指正')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 23:00:57] WARNING  It looks like the scene contains a  hashing.py:215
+                             lot of sub-mobjects. Caching is                   
+                             sometimes not suited to handle such               
+                             large scenes, you might consider                  
+                             disabling caching with                            
+                             --disable_caching to potentially                  
+                             speed up the rendering process.                   
+                    WARNING  You can disable this warning by     hashing.py:221
+                             setting disable_caching_warning to                
+                             True in your config file.                         
+[10/17/26 23:01:04] INFO     Animation 98 : Using cached  cairo_renderer.py:105
+                             data (hash :                                      
+                             7c17d09b77f8bd891ea59224325e                      
+                             cd4093bf9ae843f970b8b7ad0252                      
+                             8cb32118)                                         
+                                                                                             
+
+Animation 98: FadeIn(Text('演讲人：朱崇璟、戴语骏    ｜    班级：八（2）班')):   0%|          | 0/1 [00:00<?, ?it/s]
+[10/17/26 23:01:05] INFO     Combining to Movie file.  scene_file_writer.py:877
+[10/17/26 23:01:08] INFO                               scene_file_writer.py:999
+                             File ready at                                     
+                             'C:\Users\kylez\Doubao\ch                         
+                             ats\2026-10-17\new-chat\s                         
+                             hizheng_manim\media\video                         
+                             s\shizheng_pptx\1080p60\S                         
+                             hizhengSlides.mp4'                                
+                                                                               
+                    INFO     The segment cache exceeded 100       caching.py:61
+                             files; removed 6 least recently used              
+                             segment(s). Change max_files_cached               
+                             to adjust this limit.                             
+                    INFO     Rendered ShizhengSlides             manager.py:226
+                             Played 99 animations                              
+                                                                                                                    
+
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:   0%|          | 0/10 [00
+:00<?, ? slides/s]
+
+Reversing large file by cutting it in segments:   0%|          | 0/2 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  50%|#####     | 1/2 [00:03<00:03,  3.88s/ files][A
+
+Reversing large file by cutting it in segments: 100%|##########| 2/2 [00:09<00:00,  5.12s/ files][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  10%|#         | 1/10 [00
+:11<01:43, 11.52s/ slides]
+
+Reversing large file by cutting it in segments:   0%|          | 0/2 [00:00<?, ? files/s][A
+
+Reversing large file by cutting it in segments:  50%|#####     | 1/2 [00:09<00:09,  9.19s/ files][A
+
+Reversing large file by cutting it in segments: 100%|##########| 2/2 [00:10<00:00,  4.70s/ files][A
+
+                                                                                                 [A
+Concatenating animations to 'slides\files\ShizhengSlides' and generating reversed animations:  20%|##        | 2/10 [00
+:26<01:46, 13.32s/ slides]
+[10/17/26 23:01:34] INFO     Generated 10 slides to                 base.py:680
+                             'C:\Users\kylez\Doubao\chats\2026-10-1            
+                             7\new-chat\shizheng_manim\slides\files            
+                             \ShizhengSlides'                                  
+[10/17/26 23:01:34] INFO     Generated 10 slides to                 base.py:680
+                             'C:\Users\kylez\Doubao\chats\2026-10-1            
+                             7\new-chat\shizheng_manim\slides\files            
+                             \ShizhengSlides'                                  
+                    INFO     Slide 'ShizhengSlides' configuration   base.py:692
+                             written in                                        
+                             'C:\Users\kylez\Doubao\chats\2026-10-1            
+                             7\new-chat\shizheng_manim\slides\Shizh            
+                             engSlides.json'                                   
+                    INFO     Slide 'ShizhengSlides' configuration   base.py:692
+                             written in                                        
+                             'C:\Users\kylez\Doubao\chats\2026-10-1            
+                             7\new-chat\shizheng_manim\slides\Shizh            
+                             engSlides.json'                                   
+                                                                                                                       
+                          
