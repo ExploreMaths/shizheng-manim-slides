@@ -454,27 +454,22 @@ class ShizhengSlides(Slide):
              5.70),
             ("02", "创新驱动是国家命运所系。",
              "我国实施创新驱动发展战略，推进以科技创新为核心的全面创新。",
-             8.55),
+             8.15),
             ("03", "建设世界科技创新强国，要增强自主创新能力。",
              "坚持自主创新、重点跨越、支撑发展、引领未来的方针，走中国特色自主创新道路。",
-             11.40),
+             10.60),
             ("04", "企业是社会创新的重要力量。",
              "提升创新能力是企业持续发展之基、市场制胜之道；核心技术不是别人赐予的，必须自强奋斗。",
-             14.25),
+             13.05),
         ]
         for i, (num, lead, body, top) in enumerate(rows):
             row_h = 2.45
             row_mid = top + row_h / 2
-            row_mid_y = (PPT_H / 2 - row_mid) * SCALE
-            n = mk_text(2.26, top + 0.05, 1.55, 1.06, num, 22, RED, FONT_SERIF, bold=True)
-            head = mk_text(4.23, top, 27.38, 0.8, lead, 15, INK, FONT_SANS, bold=True)
-            bd = mk_text(4.23, top + 0.75, 27.38, 1.3, body, 15, BODY, FONT_SANS)
-            # 内容(head+bd)整体垂直居中于上下两条线之间
-            comb_mid = (head.get_top()[1] + bd.get_bottom()[1]) / 2
-            shift_y = row_mid_y - comb_mid
-            head.move_to([head.get_center()[0], head.get_center()[1] + shift_y, 0])
-            bd.move_to([bd.get_center()[0], bd.get_center()[1] + shift_y, 0])
-            n.move_to([n.get_center()[0], head.get_center()[1], 0])
+            # 内容(head单行 + bd单行，总高约1.35cm)整体垂直居中于上下两条线之间
+            head_top = row_mid - 0.481
+            n = mk_text(2.26, row_mid - 0.686, 1.55, 1.06, num, 22, RED, FONT_SERIF, bold=True)
+            head = mk_text(4.23, head_top, 27.38, 0.8, lead, 15, INK, FONT_SANS, bold=True)
+            bd = mk_text(4.23, head_top + 0.70, 27.38, 1.3, body, 15, BODY, FONT_SANS)
             # 每项被上下两条线夹住：第一行画上线，每行画下线
             acts = [GrowFromCenter(n), Write(head), FadeIn(bd, shift=RIGHT * 0.2)]
             if i == 0:
@@ -574,27 +569,21 @@ class ShizhengSlides(Slide):
             ("②", "竞争的应对：",
              "新一轮科技革命加速突破，关键核心技术买不来、讨不来。\n只有把大国重器掌握在自己手里，才能赢得发展主动权。",
              "教材链接：建设世界科技创新强国，要增强自主创新能力，走中国特色自主创新道路。",
-             8.80),
+             8.10),
             ("③", "安全的统筹：",
              "对先进技术依法依规实施出口管制，与扩大高水平对外开放并行不悖，\n体现统筹发展和安全，守住国家利益底线。",
              "教材链接：坚持国家利益至上，维护国家安全，人人有责。",
-             13.00),
+             11.60),
         ]
         for i, (num, head, body, link, top) in enumerate(rows):
             row_h = 3.50
             row_mid = top + row_h / 2
-            row_mid_y = (PPT_H / 2 - row_mid) * SCALE
-            n = mk_text(2.26, top, 1.83, 1.27, num, 26, RED, FONT_SERIF, bold=True)
-            hd = mk_text(4.45, top, 27.16, 0.8, head, 15, INK, FONT_SANS, bold=True)
-            bd = mk_text(4.45, top + 0.75, 27.16, 1.5, body, 15, BODY, FONT_SANS)
-            lk = mk_text(4.45, top + 2.20, 27.16, 0.7, link, 13, RED, FONT_SANS, slant=ITALIC)
-            # 内容(hd+bd+lk)整体垂直居中于上下两条线之间
-            comb_mid = (hd.get_top()[1] + lk.get_bottom()[1]) / 2
-            shift_y = row_mid_y - comb_mid
-            hd.move_to([hd.get_center()[0], hd.get_center()[1] + shift_y, 0])
-            bd.move_to([bd.get_center()[0], bd.get_center()[1] + shift_y, 0])
-            lk.move_to([lk.get_center()[0], lk.get_center()[1] + shift_y, 0])
-            n.move_to([n.get_center()[0], hd.get_center()[1], 0])
+            # 内容(hd单行 + bd两行 + lk单行，总高约2.63cm)整体垂直居中于上下两条线之间
+            hd_top = row_mid - 1.130
+            n = mk_text(2.26, hd_top - 0.31, 1.83, 1.27, num, 26, RED, FONT_SERIF, bold=True)
+            hd = mk_text(4.45, hd_top, 27.16, 0.8, head, 15, INK, FONT_SANS, bold=True)
+            bd = mk_text(4.45, hd_top + 0.75, 27.16, 1.5, body, 15, BODY, FONT_SANS)
+            lk = mk_text(4.45, hd_top + 2.20, 27.16, 0.7, link, 13, RED, FONT_SANS, slant=ITALIC)
             # 每项被上下两条线夹住：第一行画上线，每行画下线
             acts = [GrowFromCenter(n), Write(hd), FadeIn(bd, shift=RIGHT * 0.2), FadeIn(lk)]
             if i == 0:
