@@ -9,3 +9,7 @@ media/images/
 
 # 渲染日志
 render_*.txt
+
+# manim-slides 分页渲染产物（可由渲染重建）
+slides/files/
+slides/*.json
